@@ -1,0 +1,5865 @@
+[
+ {
+  "exam": "2016-12",
+  "n": 1,
+  "q": "Hvem bestemmer, hvem der skal danne regering efter et valg?",
+  "opts": [
+   "Dronningen",
+   "Folketinget",
+   "Domstolene"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 2,
+  "q": "Hvilken organisation blev Danmark medlem af i 1949?",
+  "opts": [
+   "FN",
+   "NATO",
+   "EU"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 3,
+  "q": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
+  "opts": [
+   "Medarbejderne",
+   "Medarbejderne og arbejdsgiveren i forening",
+   "Arbejdsgiveren"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 4,
+  "q": "Hvornår er man ifølge loven myndig i Danmark?",
+  "opts": [
+   "Når man er 15 år",
+   "Når man er 18 år",
+   "Når man er 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 5,
+  "q": "Hvad hedder farvandet mellem Jylland og Fyn?",
+  "opts": [
+   "Øresund",
+   "Storebælt",
+   "Lillebælt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 6,
+  "q": "Er det gratis at være medlem af en fagforening?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 7,
+  "q": "Skal man underrette politiet, før man holder en demonstration?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 8,
+  "q": "Er det normalt gratis for voksne borgere at gå til læge i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 9,
+  "q": "Må man danne en forening, hvis man ikke er dansk statsborger?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 10,
+  "q": "Hvem har den dømmende magt?",
+  "opts": [
+   "Regeringen",
+   "Domstolene",
+   "Folketinget"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 11,
+  "q": "Hvem har ansvaret for de offentlige vuggestuer?",
+  "opts": [
+   "Kommunerne",
+   "Regionerne",
+   "Staten"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 12,
+  "q": "Hvilken af følgende virksomheder producerer vindmøller?",
+  "opts": [
+   "Novo Nordisk",
+   "Vestas",
+   "Mærsk"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 13,
+  "q": "Hvad er normalt den almindelige ugentlige arbejdstid ved et fuldtidsarbejde?",
+  "opts": [
+   "27 timer om ugen",
+   "37 timer om ugen",
+   "47 timer om ugen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 14,
+  "q": "Hvordan er stemmeprocenten normalt i Danmark ved valg til Europa-Parlamentet?",
+  "opts": [
+   "På samme niveau som ved folketingsvalg",
+   "Højere end ved folketingsvalg",
+   "Lavere end ved folketingsvalg"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 15,
+  "q": "Skal Folketingets medlemmer være medlem af et politisk parti?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 16,
+  "q": "Hvilket år blev reformationen gennemført i Danmark?",
+  "opts": [
+   "1066",
+   "1397",
+   "1536"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 17,
+  "q": "Hvad er en straffeattest?",
+  "opts": [
+   "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
+   "Et dokument, man skal udfylde, hvis man ønsker at blive dansk statsborger",
+   "Et dokument, der viser, om man har været straffet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 18,
+  "q": "Hvor mange års undervisningspligt har danske børn?",
+  "opts": [
+   "7 år",
+   "10 år",
+   "13 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 19,
+  "q": "Hvad er den højeste karakter på 7-trins-skalaen?",
+  "opts": [
+   "7",
+   "10",
+   "12"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 20,
+  "q": "Hvornår levede forfatteren H.C. Andersen?",
+  "opts": [
+   "1805-1875",
+   "1855-1925",
+   "1905-1975"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 21,
+  "q": "Mange retssager afgøres i Byretten. Hvor kan man anke en afgørelse herfra, som man er uenig i?",
+  "opts": [
+   "Landsretten",
+   "Højesteret"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 22,
+  "q": "Er undervisningen gratis på de offentlige gymnasier?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 23,
+  "q": "Hvornår blev Danmark under 2. Verdenskrig besat af tyske tropper?",
+  "opts": [
+   "April 1937",
+   "April 1940",
+   "April 1945"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 24,
+  "q": "Hvornår fik Danmark for første gang en kvindelig statsminister?",
+  "opts": [
+   "1991",
+   "2001",
+   "2011"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2016-12",
+  "n": 25,
+  "q": "Hvilken kristen højtid fejres 7 uger efter påsken?",
+  "opts": [
+   "St. Bededag",
+   "Pinse",
+   "Sankt Hans"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 1,
+  "q": "Er Danmark medlem af NATO?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 2,
+  "q": "Hvor i Danmark ligger Aarhus?",
+  "opts": [
+   "På Sjælland",
+   "I Jylland",
+   "På Fyn"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 3,
+  "q": "Hvornår er Danmarks Riges Grundlov fra?",
+  "opts": [
+   "1661",
+   "1788",
+   "1849"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 4,
+  "q": "Hvor mange regioner er Danmark opdelt i?",
+  "opts": [
+   "5",
+   "7",
+   "9"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 5,
+  "q": "DA og LO indgår aftaler for store dele af arbejdsmarkedet. Aftalerne drejer sig om fx løn, arbejdstid og ferie. Hvad hedder disse aftaler?",
+  "opts": [
+   "Arbejdspladsvurderinger",
+   "Kollektive overenskomster"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 6,
+  "q": "I 1700-tallet blev der gennemført nogle reformer. De betød blandt andet, at bønderne selv kunne bestemme, hvor de ville arbejde og bo. Hvilke reformer er der tale om?",
+  "opts": [
+   "Landboreformer",
+   "Velfærdsreformer",
+   "Kommunalreformer"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 7,
+  "q": "Hvad markeres hvert år den 5. maj?",
+  "opts": [
+   "Genforeningen af Sønderjylland med Danmark",
+   "Indførelsen af Danmarks Riges Grundlov",
+   "Befrielsen af Danmark efter Anden Verdenskrig"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 8,
+  "q": "Hvor mange års undervisningspligt er der i Danmark?",
+  "opts": [
+   "7 år",
+   "10 år",
+   "12 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 9,
+  "q": "Hvornår kan man tidligst få SU (Statens Uddannelsesstøtte)?",
+  "opts": [
+   "Når man fylder 15 år",
+   "Når man fylder 18 år",
+   "Når man fylder 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 10,
+  "q": "Hvor ofte skal der ifølge grundloven afholdes Folketingsvalg?",
+  "opts": [
+   "Mindst hvert 3. år",
+   "Mindst hvert 4. år",
+   "Mindst hvert 5. år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 11,
+  "q": "Er vaccinationer mod børnesygdomme gratis?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 12,
+  "q": "Hvad er et samarbejdsudvalg?",
+  "opts": [
+   "Et samarbejde i en virksomhed mellem ledelsen og de ansatte",
+   "Et samarbejde mellem ledere i det offentlige og private"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 13,
+  "q": "Hvilken instans står normalt for driften af de offentlige børnehaver og vuggestuer?",
+  "opts": [
+   "Staten",
+   "Regionerne",
+   "Kommunerne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 14,
+  "q": "Hvor gamle skal unge være, før de må købe vin og øl?",
+  "opts": [
+   "16 år",
+   "18 år",
+   "20 år"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 15,
+  "q": "Hvilken arkitekt har tegnet Danmarks Nationalbank i København?",
+  "opts": [
+   "Jørn Utzon",
+   "Arne Jacobsen",
+   "Henning Larsen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 16,
+  "q": "Må en arbejdsgiver fyre en kvinde, fordi hun er gravid?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 17,
+  "q": "Hvad er det danske firma Novo Nordisk særlig kendt for at producere?",
+  "opts": [
+   "Høreapparater",
+   "Vindmøller",
+   "Medicin"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 18,
+  "q": "Har kvinder normalt mulighed for at få økonomisk støtte under barselsorlov?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 19,
+  "q": "Har en medarbejder altid krav på at arbejde på deltid?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 20,
+  "q": "Hvor mange medlemmer vælger Danmark til Europa-Parlamentet?",
+  "opts": [
+   "13",
+   "23",
+   "33"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 21,
+  "q": "Hvem var Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Mette Frederiksen",
+   "Helle Thorning-Schmidt",
+   "Margrethe Vestager"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 22,
+  "q": "Der sidder forældrerepræsentanter i en skolebestyrelse. Sidder der også elevrepræsentanter?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 23,
+  "q": "Hvilken organisation arbejder blandt andet for fri handel mellem medlemslandene?",
+  "opts": [
+   "NATO",
+   "FN",
+   "EU"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 24,
+  "q": "Kan udlændinge stemme til folketingsvalg i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-06",
+  "n": 25,
+  "q": "Har mænd normalt ret til at tage fædreorlov, når de er blevet fædre?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 1,
+  "q": "Hvilken organisation blev Danmark medlem af i 1945?",
+  "opts": [
+   "EU",
+   "FN",
+   "NATO"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 2,
+  "q": "Hvad er normalt ikke gratis for voksne i Danmark?",
+  "opts": [
+   "At gå til læge",
+   "At komme på hospitalet",
+   "At gå til tandlæge"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 3,
+  "q": "Hvor højt er Danmarks højeste geografiske punkt?",
+  "opts": [
+   "Ca. 590 meter",
+   "Ca. 380 meter",
+   "Ca. 170 meter"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 4,
+  "q": "Hvilke lande er der i det danske rigsfællesskab?",
+  "opts": [
+   "Danmark, Grønland og Færøerne",
+   "Danmark, Island og Norge"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 5,
+  "q": "Hvad hedder den karakterskala, der anvendes i det danske uddannelsessystem?",
+  "opts": [
+   "13-trinsskalaen",
+   "10-trinsskalaen",
+   "7-trinsskalaen"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 6,
+  "q": "Hvor mange medlemmer har Danmark i Europa-Parlamentet?",
+  "opts": [
+   "13",
+   "23",
+   "33"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 7,
+  "q": "Hvem har den lovgivende magt?",
+  "opts": [
+   "Regeringen og Folketinget",
+   "Folketinget og domstolen"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 8,
+  "q": "Hvem har normalt ansvaret for de offentlige børnehaver?",
+  "opts": [
+   "Staten",
+   "Regionerne",
+   "Kommunerne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 9,
+  "q": "Hvilken rettighed fik kvinder i 1915?",
+  "opts": [
+   "Retten til at stemme til den lovgivende forsamling",
+   "Retten til at få en abort til og med 12. graviditetsuge",
+   "Retten til at blive skilt fra en voldelig ægtemand"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 10,
+  "q": "Hvilket land blev Danmark besat af den 9. april 1940?",
+  "opts": [
+   "England",
+   "Tyskland",
+   "Sverige"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 11,
+  "q": "Hvor mange procent af lønmodtagerne i Danmark er medlem af en a-kasse?",
+  "opts": [
+   "Ca. 30 %",
+   "Ca. 50 %",
+   "Ca. 70 %"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 12,
+  "q": "I forbindelse med hvilken mærkedag er der tradition for at brænde bål?",
+  "opts": [
+   "Sankt Hans",
+   "Halloween",
+   "Fastelavn"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 13,
+  "q": "Hvornår er grundloven senest blevet ændret?",
+  "opts": [
+   "1853",
+   "1903",
+   "1953"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 14,
+  "q": "Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark?",
+  "opts": [
+   "Folketinget vælger den bedst kvalificerede",
+   "Den nye konge eller dronning arver tronen",
+   "Det bliver afgjort gennem en folkeafstemning"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 15,
+  "q": "Hvor mange medlemmer har Folketinget?",
+  "opts": [
+   "59",
+   "119",
+   "179"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 16,
+  "q": "Hvad er et samarbejdsudvalg?",
+  "opts": [
+   "Et samarbejde i en virksomhed mellem ledelsen og de ansatte",
+   "Et samarbejde mellem ledere i det offentlige og private"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 17,
+  "q": "Hvad fremstiller den danske virksomhed LEGO?",
+  "opts": [
+   "Insulin",
+   "Vindmøller",
+   "Byggeklodser"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 18,
+  "q": "Kan man få dagpenge ved arbejdsløshed uden at være medlem af en arbejdsløshedskasse?",
+  "opts": [
+   "Nej",
+   "Ja"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 19,
+  "q": "Hvor mange ugers fædreorlov har fædre ret til efter fødslen?",
+  "opts": [
+   "Ingen",
+   "2 uger",
+   "4 uger"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 20,
+  "q": "Hvem er den øverste politiske leder af en kommune?",
+  "opts": [
+   "En major",
+   "En borgmester",
+   "En kommunaldirektør"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 21,
+  "q": "Hvad er P.S. Krøyer særlig kendt for?",
+  "opts": [
+   "Han var forfatter",
+   "Han var komponist",
+   "Han var kunstmaler"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 22,
+  "q": "Hvem bestemmer, hvornår der skal udskrives valg til Folketinget?",
+  "opts": [
+   "Folketingets formand",
+   "Statsministeren"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 23,
+  "q": "Hvilke områder mistede Danmark i 1864?",
+  "opts": [
+   "Island og Norge",
+   "Skåne, Halland og Blekinge",
+   "Slesvig og Holsten"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 24,
+  "q": "Hvad er en kollektiv overenskomst?",
+  "opts": [
+   "En aftale mellem fagforeninger og arbejdsgivere",
+   "En aftale mellem staten, regionerne og kommunerne",
+   "En aftale mellem virksomheder og kommunalbestyrelser"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2017-11",
+  "n": 25,
+  "q": "Betyder en betinget fængselsstraf, at man skal direkte i fængsel?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 1,
+  "q": "Hvor tit er der valg til kommunalbestyrelser og regionsråd?",
+  "opts": [
+   "Hvert tredje år",
+   "Hvert fjerde år",
+   "Hvert femte år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 2,
+  "q": "Hvor kan man få en uddannelse til elektriker?",
+  "opts": [
+   "På et gymnasium",
+   "På en handelsskole",
+   "På en erhvervsskole"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 3,
+  "q": "Hvad hedder farvandet mellem Sjælland og Sverige?",
+  "opts": [
+   "Øresund",
+   "Kattegat",
+   "Lillebælt"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 4,
+  "q": "Hvad er værnepligt?",
+  "opts": [
+   "Pligten til at være soldat",
+   "Pligten til at forsørge sin familie"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 5,
+  "q": "Hvad er den mest almindelige arbejdstid normalt ved fuldtidsarbejde?",
+  "opts": [
+   "ca. 33 timer",
+   "ca. 37 timer",
+   "ca. 41 timer"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 6,
+  "q": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
+  "opts": [
+   "Medarbejderne og arbejdsgiveren i fællesskab",
+   "Arbejdsgiveren",
+   "Medarbejderne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 7,
+  "q": "Hvem holder sin nytårstale den 31. december?",
+  "opts": [
+   "Dronningen",
+   "Statsministeren"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 8,
+  "q": "Hvilken rettighed er sikret i den danske grundlov?",
+  "opts": [
+   "Retten til at stifte familie",
+   "Retten til at købe og bruge våben",
+   "Retten til at mødes til en demonstration"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 9,
+  "q": "Hvor længe kan politiet tilbageholde en person, der er anholdt, før personen skal stilles for en dommer?",
+  "opts": [
+   "72 timer",
+   "48 timer",
+   "24 timer"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 10,
+  "q": "Hvilken forfatter har skrevet eventyret ’Den Grimme Ælling’",
+  "opts": [
+   "Karen Blixen",
+   "H.C. Andersen",
+   "Benny Andersen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 11,
+  "q": "Hvor mange kvindelige statsministre har der været i Danmark før Helle Thorning-Schmidt?",
+  "opts": [
+   "Ingen",
+   "En",
+   "To"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 12,
+  "q": "Er Danmark medlem af De Forenede Nationer (FN)?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 13,
+  "q": "Hvad er den højeste karakter på 7-trinsskalaen?",
+  "opts": [
+   "7",
+   "10",
+   "12"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 14,
+  "q": "Hvem er medlem af et samarbejdsudvalg?",
+  "opts": [
+   "Repræsentanter for medarbejdere og ledelse",
+   "Repræsentanter for staten og kommunerne",
+   "Repræsentanter for kommunerne og virksomhederne"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 15,
+  "q": "Hvad hedder Danmarks forfatning?",
+  "opts": [
+   "Valgloven",
+   "Grundloven",
+   "Kongeloven"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 16,
+  "q": "Hvornår fik kvinder stemmeret til Folketinget?",
+  "opts": [
+   "I 1915",
+   "I 1945",
+   "I 1975"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 17,
+  "q": "Hvor gammel skal man normalt være for at blive gift i Danmark?",
+  "opts": [
+   "Mindst 15 år",
+   "Mindst 18 år",
+   "Mindst 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 18,
+  "q": "Er det gratis at låne bøger på landets folkebiblioteker?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 19,
+  "q": "Hvem har den dømmende magt?",
+  "opts": [
+   "Folketinget",
+   "Regeringen",
+   "Domstolene"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 20,
+  "q": "Kan to personer fra to forskellige trossamfund blive gift i folkekirken?",
+  "opts": [
+   "Nej, begge personer skal være medlem af folkekirken",
+   "Ja, hvis den ene person er medlem af folkekirken"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 21,
+  "q": "Hvor mange kommuner er der i Danmark?",
+  "opts": [
+   "68",
+   "98",
+   "128"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 22,
+  "q": "Hvad er en straffeattest?",
+  "opts": [
+   "Et dokument, man skal udfylde, hvis man ønsker at blive dansk statsborger",
+   "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
+   "Et dokument, der viser, om man har været straffet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 23,
+  "q": "Hvor mange medlemmer af Folketinget er valgt i Grønland?",
+  "opts": [
+   "2",
+   "4",
+   "6"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 24,
+  "q": "Hvilken af følgende virksomheder producerer vindmøller?",
+  "opts": [
+   "Novo Nordisk",
+   "Vestas",
+   "Arla"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-06",
+  "n": 25,
+  "q": "Er det forbudt at slå børn i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 1,
+  "q": "Hvor stor en andel af befolkningen i Danmark er indvandrere og efterkommere?",
+  "opts": [
+   "5-6 %",
+   "12-13 %",
+   "19-20 %"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 2,
+  "q": "Hvor mange mennesker bor der i Region Hovedstaden?",
+  "opts": [
+   "Ca. 1,7 millioner",
+   "Ca. 2,8 millioner",
+   "Ca. 3,9 millioner"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 3,
+  "q": "Hvad hedder farvandet mellem Jylland og Fyn?",
+  "opts": [
+   "Øresund",
+   "Kattegat",
+   "Lillebælt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 4,
+  "q": "Er Danmark medlem af NATO?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 5,
+  "q": "Hvor mange medlemmer har Danmark i Europa-Parlamentet?",
+  "opts": [
+   "13",
+   "23",
+   "33"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 6,
+  "q": "Hvad er Danmarks areal (uden Grønland og Færøerne)?",
+  "opts": [
+   "Ca. 4.300 km²",
+   "Ca. 43.000 km²",
+   "Ca. 430.000 km²"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 7,
+  "q": "Er det gratis at være medlem af en fagforening?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 8,
+  "q": "Hvad hedder Danmarks forfatning?",
+  "opts": [
+   "Grundloven",
+   "Danske Lov",
+   "Kongeloven"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 9,
+  "q": "Hvilken rolle har dronningen blandt andet?",
+  "opts": [
+   "Hun repræsenterer den danske regering i EU",
+   "Hun underskriver nye love sammen med en minister",
+   "Hun holder åbningstalen ved Folketingets åbning i oktober"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 10,
+  "q": "Hvilken rettighed er sikret i den danske grundlov?",
+  "opts": [
+   "Retten til at bære våben",
+   "Retten til at stifte familie",
+   "Retten til at forsamles"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 11,
+  "q": "Hvilken af følgende virksomheder producerer medicin?",
+  "opts": [
+   "Novo Nordisk",
+   "Mærsk",
+   "Vestas"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 12,
+  "q": "Hvor mange af medlemmerne af Folketinget er kvinder?",
+  "opts": [
+   "Ca. 20 %",
+   "Ca. 40 %",
+   "Ca. 60 %"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 13,
+  "q": "Hvem har ansvaret for de offentlige sygehuse?",
+  "opts": [
+   "Kommunerne",
+   "Regionerne",
+   "Staten"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 14,
+  "q": "Hvor mange års undervisningspligt har danske børn?",
+  "opts": [
+   "10",
+   "12",
+   "13"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 15,
+  "q": "Hvor længe kan politiet tilbageholde en borger, der er anholdt, før borgeren skal stilles for en dommer?",
+  "opts": [
+   "24 timer",
+   "48 timer",
+   "72 timer"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 16,
+  "q": "I forbindelse med hvilken mærkedag er der tradition for at klæde sig ud?",
+  "opts": [
+   "Sankt Hans",
+   "Påskedag",
+   "Fastelavn"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 17,
+  "q": "Hvornår levede forfatteren H.C. Andersen?",
+  "opts": [
+   "1700-tallet",
+   "1800-tallet",
+   "1900-tallet"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 18,
+  "q": "Kan arbejdsgiveren forlange, at medarbejderne skal gå på deltid?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 19,
+  "q": "Hvor mange procent af lønmodtagerne i Danmark er medlem af en a-kasse?",
+  "opts": [
+   "Ca. 30 %",
+   "Ca. 50 %",
+   "Ca. 70 %"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 20,
+  "q": "Hvor gamle er børn normalt, når de begynder i skolen?",
+  "opts": [
+   "3-4 år",
+   "5-6 år",
+   "7-8 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 21,
+  "q": "Hvornår blev protestantismen indført i Danmark?",
+  "opts": [
+   "I 1100-tallet",
+   "I 1300-tallet",
+   "I 1500-tallet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 22,
+  "q": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
+  "opts": [
+   "Medarbejderne",
+   "Medarbejderne og arbejdsgiveren i forening",
+   "Arbejdsgiveren"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 23,
+  "q": "Hvem var Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Mette Frederiksen",
+   "Pia Kjærsgaard",
+   "Helle Thorning-Schmidt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 24,
+  "q": "Hvad er Carl Nielsen særlig kendt for?",
+  "opts": [
+   "Han komponerede musik",
+   "Han lavede billedkunst",
+   "Han skrev eventyr"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2018-11",
+  "n": 25,
+  "q": "Skal man være medlem af folkekirken for at blive begravet på en af folkekirkens kirkegårde?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 1,
+  "q": "Hvor højt er Danmarks højeste geografiske punkt?",
+  "opts": [
+   "Godt 380 meter",
+   "Godt 170 meter",
+   "Godt 60 meter"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 2,
+  "q": "Hvor tit er der valg til Europa-Parlamentet?",
+  "opts": [
+   "Hvert femte år",
+   "Hvert fjerde år",
+   "Hvert tredje år"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 3,
+  "q": "Hvor gammel skal man være for at kunne få statens uddannelsesstøtte (SU)?",
+  "opts": [
+   "6 år",
+   "12 år",
+   "18 år"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 4,
+  "q": "Hvilken international organisation blev Danmark medlem af i 1949?",
+  "opts": [
+   "EU",
+   "WTO",
+   "NATO"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 5,
+  "q": "Hvilken af følgende ø-grupper er med i det danske rigsfællesskab?",
+  "opts": [
+   "Færøerne",
+   "Ålandsøerne",
+   "Shetlandsøerne"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 6,
+  "q": "Hvad er værnepligt?",
+  "opts": [
+   "Pligten til at betale skat til staten",
+   "Pligten til at forsvare Danmark",
+   "Pligten til at passe på sin familie"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 7,
+  "q": "Har man ifølge Grundloven ret til at danne foreninger i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 8,
+  "q": "Hvad er en kollektiv overenskomst?",
+  "opts": [
+   "En aftale mellem fagforeninger og arbejdsgivere",
+   "En aftale mellem staten, regionerne og kommunerne",
+   "En aftale mellem virksomheder og kommunalbestyrelser"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 9,
+  "q": "Hvor tit er der valg til Folketinget?",
+  "opts": [
+   "Mindst hvert andet år",
+   "Mindst hvert tredje år",
+   "Mindst hvert fjerde år"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 10,
+  "q": "Hvad er normalt ikke gratis for voksne i Danmark?",
+  "opts": [
+   "At gå til læge",
+   "At komme på hospitalet",
+   "At gå til tandlæge"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 11,
+  "q": "Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark?",
+  "opts": [
+   "Folketinget vælger den bedst kvalificerede",
+   "Det bliver afgjort gennem en folkeafstemning",
+   "Den kommende konge eller dronning arver tronen"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 12,
+  "q": "Hvornår er Danmarks Riges Grundlov fra?",
+  "opts": [
+   "1649",
+   "1749",
+   "1849"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 13,
+  "q": "Hvad hedder farvandet mellem Fyn og Sjælland?",
+  "opts": [
+   "Storebælt",
+   "Kattegat",
+   "Øresund"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 14,
+  "q": "Kan politikerne bestemme, hvordan domstolene skal afgøre en konkret retssag?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 15,
+  "q": "Hvem har normalt forældremyndigheden over et fælles barn, når forældrene er gift med hinanden?",
+  "opts": [
+   "Faren",
+   "Moren",
+   "Både faren og moren"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 16,
+  "q": "Hvilken af følgende er en kristen helligdag?",
+  "opts": [
+   "Grundlovsdag",
+   "Nytår",
+   "Pinse"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 17,
+  "q": "Hvornår er det påske?",
+  "opts": [
+   "Om foråret",
+   "Om sommeren",
+   "Om efteråret"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 18,
+  "q": "Hvor gammel skal man normalt være for at blive gift i Danmark?",
+  "opts": [
+   "15 år",
+   "18 år",
+   "21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 19,
+  "q": "I hvilken pasningsordning bliver barnet passet i et privat hjem?",
+  "opts": [
+   "I en udflytterbørnehave",
+   "I en dagpleje",
+   "I en SFO"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 20,
+  "q": "Er undervisningen gratis på de offentlige gymnasier?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 21,
+  "q": "Hvor kan man læse medicin og uddanne sig til læge?",
+  "opts": [
+   "På et erhvervsakademi",
+   "På en professionshøjskole",
+   "På et universitet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 22,
+  "q": "Hvad fremstiller den danske virksomhed Vestas?",
+  "opts": [
+   "Medicin",
+   "Vindmøller",
+   "Mejeriprodukter"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 23,
+  "q": "Hvad er boligstøtte?",
+  "opts": [
+   "Hjælp til at betale husleje",
+   "Hjælp til at renovere sin bolig",
+   "Hjælp til at finde en billig lejlighed"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 24,
+  "q": "Hvor mange ugers ferie har man normalt ret til som lønmodtager i Danmark?",
+  "opts": [
+   "1-2 ugers ferie",
+   "3-4 ugers ferie",
+   "5-6 ugers ferie"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-06",
+  "n": 25,
+  "q": "Hvad er Ludvig Holberg særlig kendt for?",
+  "opts": [
+   "Han var forfatter",
+   "Han var komponist",
+   "Han var kunstmaler"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 1,
+  "q": "Hvornår er den første grundlov fra?",
+  "opts": [
+   "1600-tallet",
+   "1700-tallet",
+   "1800-tallet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 2,
+  "q": "Hvilken organisation blev Danmark medlem af i 1945?",
+  "opts": [
+   "Forenede Nationer (FN)",
+   "Det Europæiske Fællesskab (EF)",
+   "Nordisk Ministerråd"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 3,
+  "q": "Af hvem bliver tillidsrepræsentanten på en arbejdsplads valgt?",
+  "opts": [
+   "Medarbejderne og arbejdsgiveren i fællesskab",
+   "Medarbejderne",
+   "Arbejdsgiveren"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 4,
+  "q": "Hvornår bliver man ifølge loven myndig?",
+  "opts": [
+   "Når man fylder 15 år",
+   "Når man fylder 18 år",
+   "Når man fylder 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 5,
+  "q": "Hvad hedder farvandet mellem Jylland og Fyn?",
+  "opts": [
+   "Storebælt",
+   "Øresund",
+   "Lillebælt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 6,
+  "q": "Er det normalt gratis at være medlem af en fagforening?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 7,
+  "q": "Hvad er den mest almindelige arbejdstid, hvis man er ansat på fuldtid?",
+  "opts": [
+   "37 timer om ugen",
+   "40 timer om ugen",
+   "43 timer om ugen"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 8,
+  "q": "Er det normalt gratis for voksne borgere at gå til læge?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 9,
+  "q": "Må man danne en forening, hvis man ikke er dansk statsborger?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 10,
+  "q": "Hvem har den dømmende magt?",
+  "opts": [
+   "Regeringen",
+   "Folketinget",
+   "Domstolene"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 11,
+  "q": "Hvem står for driften af de offentlige vuggestuer?",
+  "opts": [
+   "Staten",
+   "Regionerne",
+   "Kommunerne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 12,
+  "q": "Hvilken virksomhed producerer vindmøller?",
+  "opts": [
+   "Novo Nordisk",
+   "Vestas",
+   "Velux"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 13,
+  "q": "Hvor mange børn mellem tre og fem år passes uden for hjemmet?",
+  "opts": [
+   "Næsten alle",
+   "Ca. tre fjerdedele",
+   "Ca. halvdelen"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 14,
+  "q": "Hvordan er stemmeprocenten normalt ved valg til Europa-Parlamentet?",
+  "opts": [
+   "På samme niveau som ved folketingsvalg",
+   "Højere end ved folketingsvalg",
+   "Lavere end ved folketingsvalg"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 15,
+  "q": "Skal Folketingets medlemmer være medlem af et politisk parti?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 16,
+  "q": "Hvornår blev Reformationen gennemført i Danmark?",
+  "opts": [
+   "I 1100-tallet",
+   "I 1300-tallet",
+   "I 1500-tallet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 17,
+  "q": "Hvad er en straffeattest?",
+  "opts": [
+   "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
+   "Et dokument, der viser, om man har været straffet"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 18,
+  "q": "Hvor mange års undervisningspligt har danske børn?",
+  "opts": [
+   "7 år",
+   "10 år",
+   "13 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 19,
+  "q": "Hvad er den højeste karakter på 7-trins-skalaen?",
+  "opts": [
+   "7",
+   "10",
+   "12"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 20,
+  "q": "Hvornår levede forfatteren H.C. Andersen?",
+  "opts": [
+   "1805-1875",
+   "1855-1925",
+   "1905-1975"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 21,
+  "q": "Hvortil kan man anke en afgørelse fra Byretten?",
+  "opts": [
+   "Til Landsretten",
+   "Til Højesteret"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 22,
+  "q": "Er undervisningen gratis på de offentlige gymnasier?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 23,
+  "q": "Hvornår blev Danmark under 2. Verdenskrig besat af tyske tropper?",
+  "opts": [
+   "I 1937",
+   "I 1940",
+   "I 1945"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 24,
+  "q": "Hvornår fik Danmark for første gang en kvindelig statsminister?",
+  "opts": [
+   "1991",
+   "2001",
+   "2011"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2019-11",
+  "n": 25,
+  "q": "Hvilken kristen højtid fejres syv uger efter påsken?",
+  "opts": [
+   "St. Bededag",
+   "Pinse",
+   "Sankt Hans"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 1,
+  "q": "Hvor ligger Danmarks tredjestørste by, Odense?",
+  "opts": [
+   "På Sjælland",
+   "I Jylland",
+   "På Fyn"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 2,
+  "q": "Hvor mange regioner er der i Danmark?",
+  "opts": [
+   "3",
+   "5",
+   "7"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 3,
+  "q": "Hvad fejres hvert år den 5. juni?",
+  "opts": [
+   "Grundlovsdag",
+   "Kristi Himmelfartsdag",
+   "Dronningens fødselsdag"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 4,
+  "q": "Hvornår kan man som hjemmeboende tidligst få SU (Statens Uddannelsesstøtte)?",
+  "opts": [
+   "Når man fylder 14 år",
+   "Når man fylder 16 år",
+   "Når man fylder 18 år"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 5,
+  "q": "Hvad hedder farvandet mellem Fyn og Sjælland?",
+  "opts": [
+   "Storebælt",
+   "Øresund",
+   "Lillebælt"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 6,
+  "q": "Er vaccinationer mod børnesygdommene mæslinger, fåresyge og røde hunde, MFR-vaccinen, gratis?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 7,
+  "q": "Hvor ofte skal der ifølge grundloven afholdes folketingsvalg?",
+  "opts": [
+   "Mindst hvert andet år",
+   "Mindst hvert tredje år",
+   "Mindst hvert fjerde år"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 8,
+  "q": "Hvad er et samarbejdsudvalg på en arbejdsplads?",
+  "opts": [
+   "Et samarbejde mellem medlemmer af forskellige fagforeninger",
+   "Et samarbejde mellem ledelsen og de ansatte"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 9,
+  "q": "Må en arbejdsgiver fyre en kvinde, fordi hun er gravid?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 10,
+  "q": "Hvilken dansk arkitekt har designet lænestolen Ægget?",
+  "opts": [
+   "Arne Jacobsen",
+   "Bjarke Ingels",
+   "Jan Gehl"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 11,
+  "q": "Hvilket af følgende firmaer producerer medicin?",
+  "opts": [
+   "Vestas",
+   "Novo Nordisk",
+   "Arla"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 12,
+  "q": "Hvad hedder Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Pia Kjærsgaard",
+   "Mette Frederiksen",
+   "Helle Thorning-Schmidt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 13,
+  "q": "Hvor højt er det højeste naturlige punkt i det danske landskab?",
+  "opts": [
+   "Ca. 170 meter",
+   "Ca. 360 meter",
+   "Ca. 550 meter"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 14,
+  "q": "Hvilket af følgende landområder er ikke med i det danske rigsfællesskab?",
+  "opts": [
+   "Færøerne",
+   "Grønland",
+   "Åland"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 15,
+  "q": "Hvem har den lovgivende magt?",
+  "opts": [
+   "Folketinget og domstolene",
+   "Regeringen og Folketinget"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 16,
+  "q": "Hvornår er der tradition for, at børn klæder sig ud og slår katten af tønden?",
+  "opts": [
+   "Til sankthans",
+   "Til fastelavn",
+   "Til pinse"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 17,
+  "q": "Hvornår er grundloven sidst blevet ændret?",
+  "opts": [
+   "1849",
+   "1915",
+   "1953"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 18,
+  "q": "Har fædre ret til fædreorlov efter barns fødsel?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 19,
+  "q": "Hvad er Ludvig Holberg kendt for?",
+  "opts": [
+   "Han var maler",
+   "Han var forfatter",
+   "Han var komponist"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 20,
+  "q": "Hvilket område mistede Danmark blandt andet i 1864?",
+  "opts": [
+   "Norge",
+   "Skåne",
+   "Slesvig"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 21,
+  "q": "Betyder en betinget fængselsstraf, at man kan undgå at komme i fængsel?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 22,
+  "q": "Hvem holder sin nytårstale den 31. december?",
+  "opts": [
+   "Dronningen",
+   "Statsministeren"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 23,
+  "q": "Hvor mange medlemmer af Folketinget er valgt på Færøerne?",
+  "opts": [
+   "2",
+   "4",
+   "6"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 24,
+  "q": "Hvilken rettighed er sikret i den danske grundlov?",
+  "opts": [
+   "Retten til at bære våben",
+   "Retten til at stifte familie",
+   "Retten til at forsamles"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-06",
+  "n": 25,
+  "q": "Skal forældrene normalt betale noget for, at deres børn går i en friskole eller privatskole?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 1,
+  "q": "Hvor ligger Danmarks andenstørste by, Aarhus?",
+  "opts": [
+   "På Sjælland",
+   "I Jylland",
+   "På Fyn"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 2,
+  "q": "Hvad hedder farvandet mellem København og Sverige?",
+  "opts": [
+   "Øresund",
+   "Kattegat",
+   "Lillebælt"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 3,
+  "q": "Hvor mange års undervisningspligt er der i Danmark?",
+  "opts": [
+   "7 år",
+   "10 år",
+   "13 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 4,
+  "q": "Hvilket land blev Danmark besat af den 9. april 1940?",
+  "opts": [
+   "Frankrig",
+   "Sverige",
+   "Tyskland"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 5,
+  "q": "Hvornår blev protestantismen indført i Danmark?",
+  "opts": [
+   "I 1100-tallet",
+   "I 1300-tallet",
+   "I 1500-tallet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 6,
+  "q": "Hvor mange medlemmer har Folketinget?",
+  "opts": [
+   "69",
+   "129",
+   "179"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 7,
+  "q": "Hvornår er der tradition for at samles om aftenen og tænde bål?",
+  "opts": [
+   "Til grundlovsdag",
+   "Til fastelavn",
+   "Til sankthans"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 8,
+  "q": "Hvilken organisation blev Danmark medlem af i 1945?",
+  "opts": [
+   "FN",
+   "NATO",
+   "EU"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 9,
+  "q": "Skal man være dansk statsborger for at kunne stemme til folketingsvalg i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 10,
+  "q": "Hvor stor en andel af Folketingets medlemmer er kvinder?",
+  "opts": [
+   "Ca. 20 %",
+   "Ca. 40 %",
+   "Ca. 60 %"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 11,
+  "q": "Hvad er værnepligt?",
+  "opts": [
+   "Pligten til at være med til at forsvare Danmark",
+   "Pligten til at være med til at forsørge sin familie"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 12,
+  "q": "Hvem står for driften af folkeskolerne?",
+  "opts": [
+   "Staten",
+   "Kommunerne"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 13,
+  "q": "Hvor ofte skal der ifølge grundloven afholdes folketingsvalg?",
+  "opts": [
+   "Mindst hvert 2. år",
+   "Mindst hvert 4. år",
+   "Mindst hvert 6. år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 14,
+  "q": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
+  "opts": [
+   "Arbejdsgiveren",
+   "Medarbejderne"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 15,
+  "q": "Er det gratis at låne bøger på landets folkebiblioteker?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 16,
+  "q": "Hvad er den mest almindelige arbejdstid, hvis man er ansat på fuldtid?",
+  "opts": [
+   "37 timer om ugen",
+   "42 timer om ugen",
+   "48 timer om ugen"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 17,
+  "q": "Hvilken af følgende virksomheder producerer vindmøller?",
+  "opts": [
+   "Novo Nordisk",
+   "Vestas",
+   "Arla"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 18,
+  "q": "Hvornår fik Danmark for første gang en kvindelig statsminister?",
+  "opts": [
+   "1924",
+   "1968",
+   "2011"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 19,
+  "q": "Hvilken rolle har dronningen blandt andet?",
+  "opts": [
+   "Hun udpeger Folketingets formand",
+   "Hun underskriver nye love sammen med en minister",
+   "Hun holder åbningstalen ved Folketingets åbning i oktober"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 20,
+  "q": "Hvilken forfatter har skrevet eventyret Den Grimme Ælling?",
+  "opts": [
+   "Karen Blixen",
+   "H.C. Andersen",
+   "Benny Andersen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 21,
+  "q": "Hvor mange medlemmer af Folketinget er valgt i Grønland?",
+  "opts": [
+   "2",
+   "4",
+   "6"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 22,
+  "q": "Hvilken rettighed er sikret i grundloven?",
+  "opts": [
+   "Retten til at stifte familie",
+   "Retten til at bære våben",
+   "Retten til at ytre sig"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 23,
+  "q": "Har kvinder ifølge dansk lov ret til samme løn som mænd for samme arbejde?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 24,
+  "q": "Hvad er en kollektiv overenskomst for privat ansatte?",
+  "opts": [
+   "En aftale mellem virksomheder og kommunalbestyrelser",
+   "En aftale mellem staten, regionerne og kommunerne",
+   "En aftale mellem fagforeninger og arbejdsgiverorganisationer"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2020-11",
+  "n": 25,
+  "q": "Er det forbudt at slå børn i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 1,
+  "q": "Skal Folketingets medlemmer tilhøre et politisk parti?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 2,
+  "q": "Hvem var Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Pia Olsen Dyhr",
+   "Sofie Carsten Nielsen",
+   "Helle Thorning-Schmidt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 3,
+  "q": "Hvilken rettighed fik kvinder i forbindelse med grundlovsændringen i 1915?",
+  "opts": [
+   "Retten til at stemme til den lovgivende forsamling",
+   "Retten til at få en abort til og med 12. graviditetsuge",
+   "Retten til at blive skilt fra en voldelig ægtemand"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 4,
+  "q": "Må man danne en forening, hvis man ikke er dansk statsborger?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 5,
+  "q": "Hvad hedder farvandet mellem Jylland og Fyn?",
+  "opts": [
+   "Storebælt",
+   "Øresund",
+   "Lillebælt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 6,
+  "q": "Er det normalt gratis at være medlem af en fagforening?",
+  "opts": [
+   "Nej",
+   "Ja"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 7,
+  "q": "Hvornår blev Danmarks Riges Grundlov indført?",
+  "opts": [
+   "1661",
+   "1788",
+   "1849"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 8,
+  "q": "Er undervisningen gratis på de offentlige gymnasier?",
+  "opts": [
+   "Nej",
+   "Ja"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 9,
+  "q": "Hvad er en straffeattest?",
+  "opts": [
+   "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
+   "Et dokument, der viser, om man har været straffet for visse forbrydelser"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 10,
+  "q": "Hvornår levede forfatteren H.C. Andersen?",
+  "opts": [
+   "1805-1875",
+   "1855-1925",
+   "1905-1975"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 11,
+  "q": "Hvor gammel skal man være for at blive gift i Danmark?",
+  "opts": [
+   "Mindst 15 år",
+   "Mindst 18 år",
+   "Mindst 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 12,
+  "q": "Hvad er det danske firma Novo Nordisk særlig kendt for at producere?",
+  "opts": [
+   "Legetøj",
+   "Vindmøller",
+   "Medicin"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 13,
+  "q": "Kan man blive gift i folkekirken, hvis man ikke er medlem?",
+  "opts": [
+   "Ja, hvis den, man skal giftes med, er medlem",
+   "Nej, begge, der skal giftes, skal være medlemmer"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 14,
+  "q": "Hvornår blev Danmark besat af tyske tropper under 2. Verdenskrig?",
+  "opts": [
+   "April 1937",
+   "April 1940",
+   "April 1945"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 15,
+  "q": "Hvilke lande er med i rigsfællesskabet?",
+  "opts": [
+   "Danmark, Grønland og Færøerne",
+   "Danmark, Island og Norge"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 16,
+  "q": "Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark?",
+  "opts": [
+   "Folketinget vælger den bedst kvalificerede",
+   "Den nye konge eller dronning arver tronen",
+   "Det bliver afgjort gennem en folkeafstemning"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 17,
+  "q": "Hvem står normalt for driften af de offentlige børnehaver og vuggestuer?",
+  "opts": [
+   "Staten",
+   "Regionerne",
+   "Kommunerne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 18,
+  "q": "Hvor gamle er børn normalt, når de begynder i 0. klasse i skolen?",
+  "opts": [
+   "3-4 år",
+   "5-6 år",
+   "7-8 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 19,
+  "q": "Er Danmark medlem af NATO?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 20,
+  "q": "Hvad er Karen Blixen især kendt for?",
+  "opts": [
+   "Hun skrev bøger",
+   "Hun lavede billedkunst",
+   "Hun spillede teater"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 21,
+  "q": "Har man normalt mulighed for at få økonomisk støtte under barsels- og fædreorlov?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 22,
+  "q": "Må en arbejdsgiver fyre en ansat, fordi han eller hun melder sig ind i en fagforening?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 23,
+  "q": "Hvem er den øverste politiske leder af en kommune?",
+  "opts": [
+   "En borgmester",
+   "En kommunaldirektør"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 24,
+  "q": "Hvor mange kommuner er der i Danmark?",
+  "opts": [
+   "68",
+   "98",
+   "128"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-06",
+  "n": 25,
+  "q": "Må en arbejdsgiver fyre en kvinde, fordi hun er gravid?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 1,
+  "q": "Kan man få arbejdsløshedsdagpenge uden at være medlem af en arbejdsløshedskasse (A-kasse)?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 2,
+  "q": "Hvilken rettighed er beskyttet af den danske grundlov?",
+  "opts": [
+   "Retten til at holde ferie",
+   "Retten til at eje våben",
+   "Retten til at forsamles"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 3,
+  "q": "Hvornår blev protestantismen indført i Danmark?",
+  "opts": [
+   "I 1100-tallet",
+   "I 1300-tallet",
+   "I 1500-tallet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 4,
+  "q": "Hvem holder sin nytårstale den 31. december?",
+  "opts": [
+   "Dronningen",
+   "Statsministeren"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 5,
+  "q": "Hvad hedder farvandet mellem Fyn og Sjælland?",
+  "opts": [
+   "Storebælt",
+   "Øresund",
+   "Lillebælt"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 6,
+  "q": "Skal man være dansk statsborger for at stemme til folketingsvalg?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 7,
+  "q": "Hvornår kan man som hjemmeboende tidligst få SU (Statens Uddannelsesstøtte)?",
+  "opts": [
+   "Når man fylder 14 år",
+   "Når man fylder 16 år",
+   "Når man fylder 18 år"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 8,
+  "q": "Har en medarbejder altid krav på at arbejde deltid?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 9,
+  "q": "Skal forældre normalt betale for, at deres børn går i en friskole eller privatskole?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 10,
+  "q": "Hvem har den dømmende magt?",
+  "opts": [
+   "Folketinget",
+   "Regeringen",
+   "Domstolene"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 11,
+  "q": "Hvilken af følgende virksomheder producerer vindmøller?",
+  "opts": [
+   "Vestas",
+   "Novo Nordisk",
+   "Arla"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 12,
+  "q": "Hvor ofte er der valg til kommunalbestyrelser og regionsråd?",
+  "opts": [
+   "Hvert 3. år",
+   "Hvert 4. år",
+   "Hvert 5. år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 13,
+  "q": "Betyder en betinget fængselsstraf, at man skal direkte i fængsel?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 14,
+  "q": "Hvad er P.S. Krøyer særlig kendt for?",
+  "opts": [
+   "Han var videnskabsmand",
+   "Han var politiker",
+   "Han var kunstmaler"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 15,
+  "q": "Ved hvilken by i Jylland ligger Danmarks nordligste punkt Grenen?",
+  "opts": [
+   "Skagen",
+   "Aarhus",
+   "Aalborg"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 16,
+  "q": "I forbindelse med hvilken mærkedag klæder børn sig ud og slår katten af tønden?",
+  "opts": [
+   "Sankthans",
+   "Fastelavn",
+   "Pinse"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 17,
+  "q": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
+  "opts": [
+   "Medarbejderne og arbejdsgiveren i fællesskab",
+   "Arbejdsgiveren",
+   "Medarbejderne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 18,
+  "q": "Hvor mange medlemmer af Folketinget er valgt på Færøerne?",
+  "opts": [
+   "2",
+   "4",
+   "6"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 19,
+  "q": "Ved hvilken bygning blev der begået et terrorangreb i 2015?",
+  "opts": [
+   "Københavns Hovedbanegård",
+   "Københavns Synagoge",
+   "Københavns Lufthavn"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 20,
+  "q": "Hvor mange regioner er Danmark opdelt i?",
+  "opts": [
+   "3",
+   "5",
+   "7"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 21,
+  "q": "Hvem står for driften af de offentlige sygehuse?",
+  "opts": [
+   "Kommunerne",
+   "Regionerne",
+   "Staten"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 22,
+  "q": "Hvilket område mistede Danmark i 1864?",
+  "opts": [
+   "Norge",
+   "Skåne",
+   "Slesvig"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 23,
+  "q": "Hvad hedder Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Pia Kjærsgaard",
+   "Mette Frederiksen",
+   "Helle Thorning-Schmidt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 24,
+  "q": "Hvad fejres hvert år den 5. juni?",
+  "opts": [
+   "Kristi Himmelfart",
+   "Grundlovsdag",
+   "Fastelavn"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2021-11",
+  "n": 25,
+  "q": "Hvornår er man ifølge loven myndig i Danmark?",
+  "opts": [
+   "Når man fylder 15 år",
+   "Når man fylder 18 år",
+   "Når man fylder 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 1,
+  "q": "Har man mulighed for at få økonomisk støtte under barselsorlov?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 2,
+  "q": "Hvor stor en del af borgerne med stemmeret stemmer normalt, når der er folketingsvalg?",
+  "opts": [
+   "40-50 procent",
+   "60-70 procent",
+   "80-90 procent"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 3,
+  "q": "Er det gratis at låne bøger på landets folkebiblioteker?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 4,
+  "q": "Hvortil kan man anke en afgørelse fra byretten?",
+  "opts": [
+   "Landsretten",
+   "Højesteret"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 5,
+  "q": "Hvor var danske soldater blandt andet udsendt til i 1990’erne som en del af FN’s styrker?",
+  "opts": [
+   "Afghanistan",
+   "Bosnien",
+   "Libyen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 6,
+  "q": "Hvad var Yahya Hassan særligt kendt for?",
+  "opts": [
+   "Han var digter",
+   "Han var fodboldspiller",
+   "Han var skuespiller"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 7,
+  "q": "Hvordan bliver det afgjort, hvem der skal være konge eller dronning i Danmark?",
+  "opts": [
+   "Den nye konge eller dronning arver tronen",
+   "Den nye konge eller dronning vælges af Folketinget",
+   "Den nye konge eller dronning udpeges af regeringen"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 8,
+  "q": "Hvilken rettighed er beskyttet af grundloven?",
+  "opts": [
+   "Retten til bære våben",
+   "Retten til at have et arbejde",
+   "Retten til selv at vælge religion"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 9,
+  "q": "Hvilket land blev Danmark besat af den 9. april 1940?",
+  "opts": [
+   "Frankrig",
+   "Sverige",
+   "Tyskland"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 10,
+  "q": "Skal man være medlem af folkekirken for at blive begravet på en af folkekirkens kirkegårde?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 11,
+  "q": "Hvor har USA luftbasen Thulebasen?",
+  "opts": [
+   "Bornholm",
+   "Grønland",
+   "Færøerne"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 12,
+  "q": "I hvilken måned fejres sankthans?",
+  "opts": [
+   "I april",
+   "I maj",
+   "I juni"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 13,
+  "q": "Er Danmark medlem af De Forenede Nationer (FN)?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 14,
+  "q": "Kan man få dagpenge ved arbejdsløshed uden at være medlem af en arbejdsløshedskasse?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 15,
+  "q": "Hvilken forfatter har skrevet eventyret Den Grimme Ælling?",
+  "opts": [
+   "Karen Blixen",
+   "H.C. Andersen",
+   "Benny Andersen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 16,
+  "q": "Hvad er den højeste karakter på 7-trins-skalaen?",
+  "opts": [
+   "7",
+   "10",
+   "12"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 17,
+  "q": "For hvilken film vandt Thomas Vinterberg en Oscar i 2021?",
+  "opts": [
+   "Druk",
+   "Pelle Erobreren",
+   "Kundskabens Træ"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 18,
+  "q": "Hvilken rolle har Dronningen blandt andet?",
+  "opts": [
+   "Hun repræsenterer den danske regering i EU",
+   "Hun underskriver nye love sammen med en minister",
+   "Hun holder åbningstalen ved Folketingets åbning i oktober"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 19,
+  "q": "Hvad fremstiller den danske virksomhed LEGO?",
+  "opts": [
+   "Insulin",
+   "Vindmøller",
+   "Byggeklodser"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 20,
+  "q": "Hvad hedder farvandet mellem Jylland og Fyn?",
+  "opts": [
+   "Storebælt",
+   "Øresund",
+   "Lillebælt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 21,
+  "q": "Hvem er ikke med i det danske rigsfællesskab?",
+  "opts": [
+   "Island",
+   "Færøerne",
+   "Grønland"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 22,
+  "q": "Hvor mange års undervisning skal børn i Danmark mindst have?",
+  "opts": [
+   "7 år",
+   "10 år",
+   "13 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 23,
+  "q": "Må man danne en forening, hvis man ikke er dansk statsborger?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 24,
+  "q": "Hvem er den øverste politiske leder af en kommune?",
+  "opts": [
+   "En borgmester",
+   "En kommunaldirektør"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-06",
+  "n": 25,
+  "q": "Hvilket område mistede Danmark blandt andet i 1864?",
+  "opts": [
+   "Norge",
+   "Skåne",
+   "Slesvig"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 1,
+  "q": "Hvilken rettighed fik kvinder i forbindelse med grundlovsændringen i 1915?",
+  "opts": [
+   "Retten til at stemme til den lovgivende forsamling",
+   "Retten til at få en abort til og med 12. graviditetsuge",
+   "Retten til at blive skilt fra en voldelig ægtemand"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 2,
+  "q": "I hvilken type daginstitution går børn typisk, når de er fire år?",
+  "opts": [
+   "Vuggestue",
+   "Børnehave"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 3,
+  "q": "Hvad er den mest almindelige arbejdstid, hvis man er ansat på fuld tid?",
+  "opts": [
+   "32 timer om ugen",
+   "37 timer om ugen",
+   "42 timer om ugen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 4,
+  "q": "Hvem holder sin nytårstale den 31. december?",
+  "opts": [
+   "Dronningen",
+   "Statsministeren"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 5,
+  "q": "Under hvilken krig var Danmark besat af tyske tropper?",
+  "opts": [
+   "1. Verdenskrig",
+   "2. Verdenskrig"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 6,
+  "q": "Hvor mange medlemmer af Folketinget er valgt i Grønland?",
+  "opts": [
+   "2",
+   "4",
+   "6"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 7,
+  "q": "På hvilken ø ligger Danmarks sydligste punkt?",
+  "opts": [
+   "Læsø",
+   "Samsø",
+   "Falster"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 8,
+  "q": "Hvilket af følgende firmaer producerer medicin?",
+  "opts": [
+   "Vestas",
+   "Novo Nordisk",
+   "Arla"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 9,
+  "q": "Hvornår er der tradition for, at børn slår katten af tønden?",
+  "opts": [
+   "Halloween",
+   "Pinse",
+   "Fastelavn"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 10,
+  "q": "Hvor mange kommuner er der i Danmark?",
+  "opts": [
+   "18",
+   "98",
+   "178"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 11,
+  "q": "Er det forbudt at slå børn i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 12,
+  "q": "Hvor mange stemmer normalt ved valg til Folketinget?",
+  "opts": [
+   "40-50 procent",
+   "60-70 procent",
+   "80-90 procent"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 13,
+  "q": "Hvor mange medlemmer har Folketinget?",
+  "opts": [
+   "69",
+   "129",
+   "179"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 14,
+  "q": "Hvilken type grøn energi producerer Danmark mest af?",
+  "opts": [
+   "Bølgeenergi",
+   "Vindenergi",
+   "Solenergi"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 15,
+  "q": "Hvor højt er Danmarks højeste naturlige punkt?",
+  "opts": [
+   "Cirka 170 meter",
+   "Cirka 460 meter",
+   "Cirka 750 meter"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 16,
+  "q": "Hvad er en straffeattest?",
+  "opts": [
+   "Et dokument, man skal vise til politiet, hvis man bliver anholdt",
+   "Et dokument, der viser, om man har været straffet for forbrydelser"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 17,
+  "q": "Hvornår levede forfatteren H.C. Andersen?",
+  "opts": [
+   "I 1700-tallet",
+   "I 1800-tallet",
+   "I 1900-tallet"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 18,
+  "q": "Er undervisningen gratis på de offentlige gymnasier?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 19,
+  "q": "Hvilken rettighed er sikret i den danske grundlov?",
+  "opts": [
+   "Retten til at stifte familie",
+   "Retten til at købe og bruge våben",
+   "Retten til at sige hvad man mener"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 20,
+  "q": "Kan man gifte sig med en person af det samme køn i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 21,
+  "q": "Må en arbejdsgiver fyre en ansat, fordi han eller hun melder sig ind i en fagforening?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 22,
+  "q": "Er vaccinationer til børn mod sygdommene mæslinger, fåresyge og røde hunde gratis?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 23,
+  "q": "Hvad var Søren Kierkegaard (1813-1855) særligt kendt for?",
+  "opts": [
+   "Han var kunstmaler",
+   "Han var politiker",
+   "Han var filosof"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 24,
+  "q": "Hvor ligger Danmarks fjerdestørste by, Aalborg?",
+  "opts": [
+   "I Vestjylland",
+   "I Sønderjylland",
+   "I Nordjylland"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2022-11",
+  "n": 25,
+  "q": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
+  "opts": [
+   "1849",
+   "1923",
+   "1958"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 1,
+  "q": "Hvem fik især betydning for højskolerne i 1800-tallet?",
+  "opts": [
+   "Ludvig Holberg",
+   "Søren Kierkegaard",
+   "N.F.S. Grundtvig"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 2,
+  "q": "Betyder en betinget fængselsstraf, at man skal direkte i fængsel?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 3,
+  "q": "Hvilken af følgende byer har flest indbyggere?",
+  "opts": [
+   "Esbjerg",
+   "Thisted",
+   "Hjørring"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 4,
+  "q": "Hvor mange medlemmer af Folketinget er valgt på Færøerne?",
+  "opts": [
+   "2",
+   "4",
+   "6"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 5,
+  "q": "Hvornår blev grundloven sidst ændret?",
+  "opts": [
+   "1855",
+   "1907",
+   "1953"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 6,
+  "q": "Hvilken af følgende virksomheder producerer vindmøller?",
+  "opts": [
+   "Novo Nordisk",
+   "Arla",
+   "Vestas"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 7,
+  "q": "Hvornår begynder eleverne i den danske folkeskole at få karakterer efter 7-trins-skalaen?",
+  "opts": [
+   "0. klasse",
+   "4. klasse",
+   "8. klasse"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 8,
+  "q": "Hvad er P.S. Krøyer særlig kendt for?",
+  "opts": [
+   "Han var kunstmaler",
+   "Han var politiker",
+   "Han var videnskabsmand"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 9,
+  "q": "Hvornår blev de første jernbaner i Danmark bygget?",
+  "opts": [
+   "I 1700-tallet",
+   "I 1800-tallet",
+   "I 1900-tallet"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 10,
+  "q": "Hvad hedder Danmarks næststørste by?",
+  "opts": [
+   "Aalborg",
+   "Odense",
+   "Aarhus"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 11,
+  "q": "På hvilken årstid ligger påsken?",
+  "opts": [
+   "Forår",
+   "Sommer",
+   "Efterår"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 12,
+  "q": "Hvad hedder farvandet mellem København og Sverige?",
+  "opts": [
+   "Lillebælt",
+   "Kattegat",
+   "Øresund"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 13,
+  "q": "Hvad er Karen Blixen især kendt for?",
+  "opts": [
+   "Hun lavede film",
+   "Hun skrev bøger",
+   "Hun spillede teater"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 14,
+  "q": "Hvor mange indbyggere har Danmark?",
+  "opts": [
+   "Cirka seks millioner",
+   "Cirka otte millioner",
+   "Cirka ti millioner"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 15,
+  "q": "Hvad er værnepligt?",
+  "opts": [
+   "Pligten til at forsvare Danmark",
+   "Pligten til at forsørge sin familie"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 16,
+  "q": "Hvordan har antallet af landmænd i Danmark udviklet sig siden 1960?",
+  "opts": [
+   "Antallet er steget",
+   "Antallet er faldet"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 17,
+  "q": "Hvem var Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Pia Kjærsgaard",
+   "Mette Frederiksen",
+   "Helle Thorning-Schmidt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 18,
+  "q": "Skal personer over 21 år normalt selv betale en del af regningen, når de går til tandlægen?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 19,
+  "q": "Er Danmark medlem af NATO?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 20,
+  "q": "Hvor gammel skal man mindst være for at købe cigaretter i Danmark?",
+  "opts": [
+   "15 år",
+   "18 år",
+   "21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 21,
+  "q": "Hvornår blev protestantismen indført i Danmark?",
+  "opts": [
+   "1100-tallet",
+   "1300-tallet",
+   "1500-tallet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 22,
+  "q": "Fik kvinder stemmeret til Folketinget med grundloven fra 1849?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 23,
+  "q": "Hvor mange ugers ferie har lønmodtagere på det danske arbejdsmarked normalt ret til?",
+  "opts": [
+   "1-2 uger om året",
+   "3-4 uger om året",
+   "5-6 uger om året"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 24,
+  "q": "Hvor gammel skal man være for at blive gift i Danmark?",
+  "opts": [
+   "Mindst 15 år",
+   "Mindst 18 år",
+   "Mindst 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-05",
+  "n": 25,
+  "q": "Kan man få arbejdsløshedsdagpenge, hvis man ikke er medlem af en arbejdsløshedskasse (a-kasse)?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 1,
+  "q": "Skal man være dansk statsborger for at stemme til folketingsvalg?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 2,
+  "q": "Hvilken organisation blev Danmark medlem af i 1945?",
+  "opts": [
+   "FN",
+   "WTO",
+   "EU"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 3,
+  "q": "Hvilken popgruppe udgav nummeret 'Barbie Girl' i 1990'erne?",
+  "opts": [
+   "Gasolin",
+   "Aqua",
+   "Nik & Jay"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 4,
+  "q": "Hvad hedder Danmarks tredjestørste by?",
+  "opts": [
+   "Esbjerg",
+   "Aalborg",
+   "Odense"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 5,
+  "q": "Hvilke landsdele forbinder Lillebæltsbroen?",
+  "opts": [
+   "Fyn og Sjælland",
+   "Fyn og Langeland",
+   "Fyn og Jylland"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 6,
+  "q": "Må en arbejdsgiver fyre en kvinde, fordi hun er gravid?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 7,
+  "q": "Hvilket parti fik flest stemmer ved folketingsvalget i 2022?",
+  "opts": [
+   "Socialdemokratiet",
+   "Dansk Folkeparti",
+   "Venstre"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 8,
+  "q": "Hvad er den højeste karakter på 7-trins-skalaen, som man bruger i det danske uddannelsessystem?",
+  "opts": [
+   "7",
+   "10",
+   "12"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 9,
+  "q": "Skal der være en folkeafstemning, hvis den danske grundlov skal ændres?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 10,
+  "q": "Hvilket af følgende områder har kommunerne ansvaret for?",
+  "opts": [
+   "Børnehaver",
+   "Sygehuse",
+   "Politiet"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 11,
+  "q": "Hvad fejres hvert år den 5. juni?",
+  "opts": [
+   "Kristi himmelfart",
+   "Grundlovsdag",
+   "Kvindernes internationale kampdag"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 12,
+  "q": "Hvilket af følgende områder mistede Danmark i 1864?",
+  "opts": [
+   "Norge",
+   "Skåne",
+   "Slesvig"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 13,
+  "q": "Hvor mange medlemmer har Folketinget?",
+  "opts": [
+   "87",
+   "179",
+   "265"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 14,
+  "q": "Hvor mange år går børn normalt i folkeskolen?",
+  "opts": [
+   "10 år",
+   "12 år",
+   "14 år"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 15,
+  "q": "Hvortil kan man normalt anke en afgørelse fra byretten?",
+  "opts": [
+   "Landsretten",
+   "Højesteret"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 16,
+  "q": "Er flertallet af Danmarks befolkning medlem af folkekirken?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 17,
+  "q": "Hvad fremstiller den danske virksomhed LEGO?",
+  "opts": [
+   "Insulin",
+   "Vindmøller",
+   "Legetøj"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 18,
+  "q": "Hvilket år blev Danmark besat af tyske tropper?",
+  "opts": [
+   "1935",
+   "1940",
+   "1945"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 19,
+  "q": "Hvornår er man ifølge loven myndig i Danmark?",
+  "opts": [
+   "Når man fylder 15 år",
+   "Når man fylder 18 år",
+   "Når man fylder 21 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 20,
+  "q": "Hvilket af følgende lande er ikke med i det danske rigsfællesskab?",
+  "opts": [
+   "Færøerne",
+   "Grønland",
+   "Island"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 21,
+  "q": "Hvor blev danske FN-soldater udsendt til i 1990’erne som en del af FN’s styrker?",
+  "opts": [
+   "Libyen",
+   "Afghanistan",
+   "Bosnien"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 22,
+  "q": "Hvor mange regioner er der i Danmark?",
+  "opts": [
+   "5",
+   "15",
+   "25"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 23,
+  "q": "Skal politiet normalt give tilladelse til, at man afholder en demonstration?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 24,
+  "q": "Hvad var Yahya Hassan særligt kendt for?",
+  "opts": [
+   "Han var skuespiller",
+   "Han var fodboldspiller",
+   "Han var digter"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2023-11",
+  "n": 25,
+  "q": "I hvilken type institution går børn typisk, når de er fire år",
+  "opts": [
+   "Vuggestue",
+   "Børnehave"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 1,
+  "q": "Hvem er ikke med i det danske rigsfællesskab?",
+  "opts": [
+   "Island",
+   "Færøerne",
+   "Grønland"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 2,
+  "q": "Hvem var Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Margrethe Vestager",
+   "Mette Frederiksen",
+   "Helle Thorning-Schmidt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 3,
+  "q": "Hvilken rettighed er beskyttet af grundloven?",
+  "opts": [
+   "Retten til at bære våben",
+   "Retten til at have et arbejde",
+   "Retten til selv at vælge religion"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 4,
+  "q": "Hvem står for driften af de offentlige sygehuse?",
+  "opts": [
+   "Kommunerne",
+   "Regionerne",
+   "Staten"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 5,
+  "q": "Hvor mange kommuner er der i Danmark?",
+  "opts": [
+   "37",
+   "98",
+   "165"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 6,
+  "q": "Fra hvilket land kom der særligt mange indvandrere til Danmark i slutningen af 1960’erne?",
+  "opts": [
+   "Rumænien",
+   "Syrien",
+   "Tyrkiet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 7,
+  "q": "Hvad kendetegnede blandt andet 1960’erne?",
+  "opts": [
+   "Danmark blev besat af tyske tropper",
+   "Danmark havde høj økonomisk vækst",
+   "Danmark havde kolonier i Afrika og Caribien"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 8,
+  "q": "Hvilket af følgende lande var i union med Danmark over 400 år frem til 1814?",
+  "opts": [
+   "Sverige",
+   "Finland",
+   "Norge"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 9,
+  "q": "Hvilket parti sad i regering flest år mellem 1929 og 1982?",
+  "opts": [
+   "Socialdemokratiet",
+   "Venstre",
+   "Det Konservative Folkeparti"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 10,
+  "q": "Hvem er den øverste politiske leder af en kommune?",
+  "opts": [
+   "En kommunaldirektør",
+   "En borgmester"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 11,
+  "q": "Hvilken type vedvarende energi producerer den største andel af Danmarks el-forbrug?",
+  "opts": [
+   "Vindenergi",
+   "Solenergi",
+   "Bølgeenergi"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 12,
+  "q": "Hvor højt er Danmarks højeste naturlige punkt?",
+  "opts": [
+   "Cirka 170 meter",
+   "Cirka 460 meter",
+   "Cirka 750 meter"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 13,
+  "q": "Hvor ligger Danmarks femtestørste by, Esbjerg?",
+  "opts": [
+   "I Nordjylland",
+   "I Østjylland",
+   "I Vestjylland"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 14,
+  "q": "På hvilke klassetrin kan man vælge at gå på efterskole?",
+  "opts": [
+   "0., 1. og 2. klasse",
+   "4., 5. og 6. klasse",
+   "8., 9. og 10. klasse"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 15,
+  "q": "Hvor gammel skal man mindst være for at købe cigaretter i Danmark?",
+  "opts": [
+   "16 år",
+   "18 år",
+   "20 år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 16,
+  "q": "Hvilket område samarbejdes der primært om i NATO?",
+  "opts": [
+   "Handelspolitik",
+   "Flygtningepolitik",
+   "Forsvarspolitik"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 17,
+  "q": "Hvor blev danske soldater udsendt til i 1990'erne som en del af FN's styrker?",
+  "opts": [
+   "Afghanistan",
+   "Bosnien",
+   "Libyen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 18,
+  "q": "Hvor skete der et terrorangreb i 2015?",
+  "opts": [
+   "Christiansborg",
+   "Københavns Lufthavn",
+   "Københavns Synagoge"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 19,
+  "q": "Hvor ofte skal der være valg til Folketinget?",
+  "opts": [
+   "Hvert fjerde år",
+   "Hvert femte år",
+   "Hvert sjette år"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 20,
+  "q": "Hvor stor en andel af Folketingets medlemmer er kvinder?",
+  "opts": [
+   "Cirka 25 procent",
+   "Cirka 35 procent",
+   "Cirka 45 procent"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 21,
+  "q": "Hvor stor en del af borgere med stemmeret stemmer normalt, når der er folketingsvalg?",
+  "opts": [
+   "40-50 procent",
+   "60-70 procent",
+   "80-90 procent"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 22,
+  "q": "For hvilken film vandt Thomas Vinterberg en Oscar i 2021?",
+  "opts": [
+   "Druk",
+   "Hævnen",
+   "Nattevagten"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 23,
+  "q": "Er det gratis at låne bøger på landets folkebiblioteker?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 24,
+  "q": "Hvad er den mest almindelige arbejdstid, hvis man er ansat på fuld tid?",
+  "opts": [
+   "32 timer om ugen",
+   "37 timer om ugen",
+   "43 timer om ugen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-05",
+  "n": 25,
+  "q": "Kan man gifte sig med en person af samme køn i Danmark?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 1,
+  "q": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
+  "opts": [
+   "Medarbejderne og arbejdsgiveren i fællesskab",
+   "Arbejdsgiveren",
+   "Medarbejderne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 2,
+  "q": "Hvilken rettighed er beskyttet af grundloven?",
+  "opts": [
+   "Retten til at eje våben",
+   "Retten til at have et arbejde",
+   "Retten til selv at vælge religion"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 3,
+  "q": "Hvor gammel skal man være for at blive gift i Danmark?",
+  "opts": [
+   "Mindst 16 år",
+   "Mindst 18 år",
+   "Mindst 20 år"
+  ],
+  "a": 1,
+  "note": "Mindst 18 år"
+ },
+ {
+  "exam": "2024-11",
+  "n": 4,
+  "q": "Må man danne en forening, hvis man ikke er dansk statsborger?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 5,
+  "q": "Hvad var rødstrømpe-bevægelsen en del af?",
+  "opts": [
+   "Arbejderbevægelsen i 1930'erne",
+   "Kvindebevægelsen i 1970'erne",
+   "Miljøbevægelsen i 1990'erne"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 6,
+  "q": "Under hvilken krig var Danmark besat af tyske tropper?",
+  "opts": [
+   "1. Verdenskrig",
+   "2. Verdenskrig"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 7,
+  "q": "Hvem fik Danmark økonomisk hjælp af i tiden omkring 1950 med Marshall-planen?",
+  "opts": [
+   "Storbritannien",
+   "Canada",
+   "USA"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 8,
+  "q": "Hvilket af følgende partier har været med i regeringen siden 2022?",
+  "opts": [
+   "Dansk Folkeparti",
+   "Venstre",
+   "Det Konservative Folkeparti"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 9,
+  "q": "Hvor mange medlemmer af Folketinget er valgt på Færøerne?",
+  "opts": [
+   "To",
+   "Fem",
+   "Otte"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 10,
+  "q": "På hvilken ø ligger Danmarks sydligste punkt?",
+  "opts": [
+   "Læsø",
+   "Fyn",
+   "Falster"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 11,
+  "q": "Hvilken af følgende byer har flest indbyggere?",
+  "opts": [
+   "Odense",
+   "Aalborg",
+   "Aarhus"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 12,
+  "q": "Hvad er Susanne Bier og Thomas Vinterberg særlig kendte for?",
+  "opts": [
+   "De er filminstruktører",
+   "De er kunstmalere",
+   "De er forfattere"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 13,
+  "q": "Hvem fik især betydning for højskolerne i 1800-tallet?",
+  "opts": [
+   "N.F.S. Grundtvig",
+   "Søren Kierkegaard",
+   "P.S. Krøyer"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 14,
+  "q": "Hvilket landområde mistede Danmark i 1658?",
+  "opts": [
+   "Shetlands-øerne",
+   "Slesvig",
+   "Skåne"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 15,
+  "q": "Hvornår blev Reformationen og dermed den protestantiske kristendom indført i Danmark?",
+  "opts": [
+   "900-tallet",
+   "1200-tallet",
+   "1500-tallet"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 16,
+  "q": "Er et flertal af Danmarks befolkning medlem af Folkekirken?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 17,
+  "q": "Hvornår er grundloven sidst blevet ændret?",
+  "opts": [
+   "1866",
+   "1915",
+   "1953"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 18,
+  "q": "Er det normalt gratis at gå til tandlægen, når man er under 20 år?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 19,
+  "q": "Hvem laver lovene i Danmark?",
+  "opts": [
+   "Folketinget og domstolene",
+   "Regeringen og Folketinget"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 20,
+  "q": "Må andre se, hvad man stemmer til folketingsvalg?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 21,
+  "q": "Hvad er moms?",
+  "opts": [
+   "En skat man betaler af sin indkomst",
+   "En afgift på blandt andet varer man køber i butikkerne",
+   "Et gebyr man betaler for at kunne se DR's tv- og radiokanaler"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 22,
+  "q": "Hvor mange års undervisning skal børn i Danmark normalt have?",
+  "opts": [
+   "Mindst 10 år",
+   "Mindst 12 år",
+   "Mindst 14 år"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 23,
+  "q": "Skal forældre normalt betale for, at deres børn går i en friskole eller privatskole?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 24,
+  "q": "Hvilket land sendte Danmark soldater til i 2003 efter en invasion, der var ledet af USA?",
+  "opts": [
+   "Syrien",
+   "Irak",
+   "Libyen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2024-11",
+  "n": 25,
+  "q": "Hvor tit er der valg til kommunalbestyrelser og regionsråd?",
+  "opts": [
+   "Hvert tredje år",
+   "Hvert fjerde år",
+   "Hvert femte år"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 1,
+  "q": "Hvad bestemmer overenskomster på arbejdsmarkedet blandt andet?",
+  "opts": [
+   "Skatter",
+   "Arbejdstid"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 2,
+  "q": "Hvor mange ugers ferie har man normalt ret til som lønmodtager?",
+  "opts": [
+   "1-2 uger om året",
+   "3-4 uger om året",
+   "5-6 uger om året"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 3,
+  "q": "Hvad skal man være medlem af en a-kasse for at kunne få?",
+  "opts": [
+   "Arbejdsløshedsdagpenge",
+   "Kontanthjælp",
+   "Førtidspension"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 4,
+  "q": "Hvordan bliver de fleste udgifter til sundhedsvæsenet betalt?",
+  "opts": [
+   "Skatter og afgifter",
+   "Direkte egenbetaling",
+   "Private forsikringer"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 5,
+  "q": "Fik alle mænd og kvinder over 18 år stemmeret til Folketinget med Grundloven i 1849?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 6,
+  "q": "Hvad har der været flest folkeafstemninger om i Danmark siden 1953?",
+  "opts": [
+   "Danmarks forhold til EU",
+   "Valgretsalderen",
+   "Grundloven"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 7,
+  "q": "Hvilket år blev Danmark befriet fra den tyske besættelse?",
+  "opts": [
+   "1940",
+   "1943",
+   "1945"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 8,
+  "q": "Hvornår blev Danmark medlem af NATO?",
+  "opts": [
+   "1949",
+   "1969",
+   "1989"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 9,
+  "q": "Hvad producerer virksomheden Novo Nordisk primært?",
+  "opts": [
+   "Vindmøller",
+   "Legetøj",
+   "Medicin"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 10,
+  "q": "Hvordan har antallet af landmænd i Danmark udviklet sig siden 1960?",
+  "opts": [
+   "Antallet er steget",
+   "Antallet er faldet"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 11,
+  "q": "Betyder en betinget fængselsstraf, at man skal direkte i fængsel?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 12,
+  "q": "Hvortil kan man normalt anke (appellere) en afgørelse fra byretten?",
+  "opts": [
+   "Landsretten",
+   "Højesteret"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 13,
+  "q": "Fra hvilket land kom der særligt mange indvandrere til Danmark i slutningen af 1960’erne?",
+  "opts": [
+   "Syrien",
+   "Tyrkiet",
+   "Rumænien"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 14,
+  "q": "Hvilken daginstitution går børn normalt i, når de er fire år?",
+  "opts": [
+   "Vuggestue",
+   "Børnehave"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 15,
+  "q": "Hvad er Grenen, som ligger ved byen Skagen?",
+  "opts": [
+   "Danmarks sydligste punkt",
+   "Danmarks østligste punkt",
+   "Danmarks nordligste punkt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 16,
+  "q": "Hvad hedder farvandet mellem Sjælland og Fyn?",
+  "opts": [
+   "Storebælt",
+   "Lillebælt",
+   "Øresund"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 17,
+  "q": "Hvilken af følgende byer har flest indbyggere?",
+  "opts": [
+   "Esbjerg",
+   "Randers",
+   "Aalborg"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 18,
+  "q": "Er Det Konservative Folkeparti med i den nuværende regering?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 19,
+  "q": "Hvilket parti fik flest stemmer ved folketingsvalget i 2022?",
+  "opts": [
+   "Socialdemokratiet",
+   "Dansk Folkeparti",
+   "Venstre"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 20,
+  "q": "Hvem er Danmarks konge?",
+  "opts": [
+   "Frederik 4",
+   "Frederik 7",
+   "Frederik 10"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 21,
+  "q": "Hvad er besluttet omkring værnepligten i 2024?",
+  "opts": [
+   "At der skal indkaldes flere værnepligtige",
+   "At der skal indkaldes samme antal værnepligtige",
+   "At der skal indkaldes færre værnepligtige"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 22,
+  "q": "Hvilket politisk parti blev dannet omkring 1870?",
+  "opts": [
+   "Dansk Folkeparti",
+   "Socialistisk Folkeparti",
+   "Venstre"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 23,
+  "q": "Hvad er Søren Kierkegaard (1813-55) særligt kendt for?",
+  "opts": [
+   "Han var kunstmaler",
+   "Han var filosof",
+   "Han var fysiker"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 24,
+  "q": "Hvem har skrevet fortællingen Den Grimme Ælling?",
+  "opts": [
+   "H.C. Andersen",
+   "Karen Blixen",
+   "Ludvig Holberg"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-05",
+  "n": 25,
+  "q": "I hvilken måned fejres sankthans?",
+  "opts": [
+   "I maj",
+   "I juni",
+   "I juli"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 1,
+  "q": "På hvilke klassetrin kan man gå på efterskole?",
+  "opts": [
+   "0., 1. og 2. klasse",
+   "4., 5. og 6. klasse",
+   "8., 9. og 10. klasse"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 2,
+  "q": "Hvor gammel skal man mindst være for at få kørekort til almindelig bil?",
+  "opts": [
+   "17 år",
+   "19 år",
+   "21 år"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 3,
+  "q": "Hvor mange borgere i Danmark mellem 15 og 64 år har et arbejde?",
+  "opts": [
+   "Cirka to ud af fem",
+   "Cirka to ud af tre",
+   "Cirka tre ud af fire"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 4,
+  "q": "Hvem var Danmarks første kvindelige statsminister?",
+  "opts": [
+   "Pia Kjærsgaard",
+   "Helle Thorning-Schmidt",
+   "Mette Frederiksen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 5,
+  "q": "Skal der være en folkeafstemning, hvis den danske grundlov skal ændres?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 6,
+  "q": "Hvor mange kommuner er der i Danmark?",
+  "opts": [
+   "19",
+   "41",
+   "98"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 7,
+  "q": "Hvilken popgruppe udgav nummeret Barbie Girl i 1990’erne?",
+  "opts": [
+   "Gasolin",
+   "Me & My",
+   "Aqua"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 8,
+  "q": "Hvad var Yahya Hassan (1995-2020) særligt kendt for?",
+  "opts": [
+   "Han var musiker",
+   "Han var digter",
+   "Han var fodboldspiller"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 9,
+  "q": "Hvilket land er ikke med i det danske rigsfællesskab?",
+  "opts": [
+   "Island",
+   "Færøerne",
+   "Grønland"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 10,
+  "q": "Hvilket af følgende lande var i union med Danmark over 400 år frem til 1814?",
+  "opts": [
+   "Sverige",
+   "Norge",
+   "Finland"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 11,
+  "q": "Hvilket år blev Danmark besat af tyske tropper?",
+  "opts": [
+   "1932",
+   "1940",
+   "1944"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 12,
+  "q": "Hvad var middel-levetiden for mænd i 2024?",
+  "opts": [
+   "Cirka 70 år",
+   "Cirka 75 år",
+   "Cirka 80 år"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 13,
+  "q": "Hvad er moms?",
+  "opts": [
+   "En skat man betaler af sin indkomst",
+   "En afgift på blandt andet varer man køber i butikkerne",
+   "Et gebyr man betaler for at bruge DR's tv- og radiokanaler"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 14,
+  "q": "Hvilken slags daginstitution går børn normalt i, når de er to år?",
+  "opts": [
+   "Vuggestue",
+   "Børnehave"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 15,
+  "q": "Hvordan blev grænsen for fri abort ændret i 2025?",
+  "opts": [
+   "Den blev sat op fra 12 til 18 uger",
+   "Den blev sat ned fra 12 til 9 uger"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 16,
+  "q": "Hvilket farvand ligger mellem Sjælland og Sverige?",
+  "opts": [
+   "Storebælt",
+   "Lillebælt",
+   "Øresund"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 17,
+  "q": "Hvor meget af Danmarks areal er landbrug?",
+  "opts": [
+   "Cirka 10 procent",
+   "Cirka 35 procent",
+   "Cirka 60 procent"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 18,
+  "q": "Skal man være dansk statsborger for at stemme til folketingsvalg?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 19,
+  "q": "Hvilket parti er ældst?",
+  "opts": [
+   "Dansk Folkeparti",
+   "Det Konservative Folkeparti"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 20,
+  "q": "Kan regeringen bestemme, hvordan en dommer skal dømme i en konkret retssag?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 21,
+  "q": "Hvor mange stemmer normalt ved valg til Folketinget?",
+  "opts": [
+   "Cirka 40-50 procent",
+   "Cirka 60-70 procent",
+   "Cirka 80-90 procent"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 22,
+  "q": "Hvor blev danske soldater udsendt til i 1990’erne som en del af FN’s styrker?",
+  "opts": [
+   "Syrien",
+   "Bosnien",
+   "Libyen"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 23,
+  "q": "Hvilken verdensdel modtager størstedelen af den danske udviklingsbistand?",
+  "opts": [
+   "Afrika",
+   "Asien",
+   "Sydamerika"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 24,
+  "q": "Hvad hedder Danmarks kronprins?",
+  "opts": [
+   "Christian",
+   "Nikolaj",
+   "Frederik"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2025-11",
+  "n": 25,
+  "q": "På hvilken dato er det grundlovsdag?",
+  "opts": [
+   "5. april",
+   "5. maj",
+   "5. juni"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 1,
+  "q": "Hvor går de fleste børn i skole?",
+  "opts": [
+   "Kommunale folkeskoler",
+   "Private grundskoler"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 2,
+  "q": "Hvordan bliver de fleste udgifter til sundhedsvæsenet betalt?",
+  "opts": [
+   "Via skatter og afgifter",
+   "Via direkte egenbetaling",
+   "Via private forsikringer"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 3,
+  "q": "Hvilket af følgende områder har kommunerne ansvaret for?",
+  "opts": [
+   "Sygehuse",
+   "Børnehaver",
+   "Politiet"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 4,
+  "q": "Hvornår er grundloven sidst blevet ændret?",
+  "opts": [
+   "1866",
+   "1915",
+   "1953"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 5,
+  "q": "Fra hvilket land kom der særligt mange indvandrere til Danmark i slutningen af 1960’erne?",
+  "opts": [
+   "Rumænien",
+   "Tyrkiet",
+   "Syrien"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 6,
+  "q": "Hvor højt er Danmarks højeste naturlige punkt, Møllehøj?",
+  "opts": [
+   "Ca. 170 meter",
+   "Ca. 460 meter",
+   "Ca. 750 meter"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 7,
+  "q": "Hvor ligger Danmarks femtestørste by, Esbjerg?",
+  "opts": [
+   "I Nordjylland",
+   "I Østjylland",
+   "I Vestjylland"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 8,
+  "q": "Hvad er 'Gedser Odde', som ligger på øen Falster?",
+  "opts": [
+   "Danmarks nordligste punkt",
+   "Danmarks østligste punkt",
+   "Danmarks sydligste punkt"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 9,
+  "q": "Hvor mange ugers ferie har man normalt ret til som lønmodtager?",
+  "opts": [
+   "3-4 uger",
+   "5-6 uger",
+   "7-8 uger"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 10,
+  "q": "Er det gratis at få vaccineret sine børn mod stivkrampe, mæslinger og HPV?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 11,
+  "q": "Under hvilken krig var Danmark besat af tyske tropper?",
+  "opts": [
+   "1. Verdenskrig",
+   "2. Verdenskrig"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 12,
+  "q": "Hvad åbnede i Danmark i 1840'erne?",
+  "opts": [
+   "De første motorveje",
+   "De første jernbaner",
+   "De første lufthavne"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 13,
+  "q": "Hvilket politisk parti blev dannet omkring 1870?",
+  "opts": [
+   "Dansk Folkeparti",
+   "Socialistisk Folkeparti",
+   "Venstre"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 14,
+  "q": "Hvem er medlemmerne af Europa-Parlamentet valgt af?",
+  "opts": [
+   "Befolkningerne i EU-landene",
+   "Regeringerne i EU-landene"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 15,
+  "q": "Hvor mange medlemmer har Folketinget?",
+  "opts": [
+   "87",
+   "179",
+   "265"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 16,
+  "q": "Hvem er Danmarks konge?",
+  "opts": [
+   "Frederik 4",
+   "Frederik 7",
+   "Frederik 10"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 17,
+  "q": "Skal forældre normalt betale for, at deres børn går i en friskole eller privatskole?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 18,
+  "q": "Hvilket af følgende lande har Danmark størst samhandel (import og eksport) med?",
+  "opts": [
+   "Kina",
+   "Tyskland",
+   "Storbritannien"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 19,
+  "q": "Hvor stor en andel af Danmarks areal er landbrugsjord?",
+  "opts": [
+   "Cirka 20 procent",
+   "Cirka 40 procent",
+   "Cirka 60 procent"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 20,
+  "q": "For hvilken film vandt Thomas Vinterberg en Oscar i 2021?",
+  "opts": [
+   "Druk",
+   "Hævnen",
+   "Nattevagten"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 21,
+  "q": "Hvad fejres hvert år den 5. juni?",
+  "opts": [
+   "Kristi Himmelfart",
+   "Grundlovsdag",
+   "Kvindernes Internationale Kampdag"
+  ],
+  "a": 1,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 22,
+  "q": "Er et flertal af Danmarks befolkning medlem af Folkekirken?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 23,
+  "q": "Hvem har værnepligt i Danmark?",
+  "opts": [
+   "Kun mænd",
+   "Kun kvinder",
+   "Både mænd og kvinder"
+  ],
+  "a": 2,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 24,
+  "q": "Er det gratis at låne bøger på landets folkebiblioteker?",
+  "opts": [
+   "Ja",
+   "Nej"
+  ],
+  "a": 0,
+  "note": ""
+ },
+ {
+  "exam": "2026-06",
+  "n": 25,
+  "q": "Hvad fremstiller den danske virksomhed LEGO?",
+  "opts": [
+   "Insulin",
+   "Legetøj",
+   "Vindmøller"
+  ],
+  "a": 1,
+  "note": ""
+ }
+]
