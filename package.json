@@ -1,0 +1,7 @@
+{
+  "name": "kryds-og-besta",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/js/*.test.js && python3 -m unittest discover -s tests"
+  }
+}
