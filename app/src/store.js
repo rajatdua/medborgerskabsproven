@@ -67,39 +67,93 @@
       }
     }
 
-    async function load() {
-      let db = null;
-      let uid = null;
+    // Cloud docs are {v: value, epoch}. A reset bumps the epoch; a newer epoch
+    // wins wholesale, equal epochs merge, older ones are overwritten.
+    let conn = null; // {uid, db} once signed in
+    let epoch = readEpoch();
+
+    function readEpoch() {
       try {
-        db = await getDb();
-        const user = db && (await getUser());
-        uid = user && (await user.id());
+        return Number(storage && storage.getItem(PREFIX + "epoch")) || 0;
       } catch (e) {
-        db = null;
+        return 0;
       }
-      if (!db || !uid) return setStatus("local");
-      cloud = db.collection(`data/users/${uid}`);
-      setStatus("syncing");
+    }
+
+    function writeEpoch() {
       try {
-        const snaps = await Promise.all(DOCS.map((d) => cloud.doc(d).get()));
-        const found = {};
-        snaps.forEach((snap, i) => {
-          if (snap.exists) found[DOCS[i]] = snap.data().v;
-        });
-        let remote = null;
-        if (Object.keys(found).length) {
-          const base = defaults();
-          remote = {};
-          for (const d of DOCS) remote[d] = found[d] === undefined ? base[d] : found[d];
-        }
+        if (storage) storage.setItem(PREFIX + "epoch", String(epoch));
+      } catch (e) {
+        // Storage blocked: the epoch still lives in memory for this visit.
+      }
+    }
+
+    async function load() {
+      try {
+        const db = await getDb();
+        const user = db && (await getUser());
+        const uid = user && (await user.id());
+        if (db && uid) conn = { db, uid };
+      } catch (e) {
+        conn = null;
+      }
+      if (!conn) return setStatus("local");
+      return flush();
+    }
+
+    // Fetch all docs and fold them into local state. Sets `cloud` only on success.
+    async function pull() {
+      const col = conn.db.collection(`data/users/${conn.uid}`);
+      const snaps = await Promise.all(DOCS.map((d) => col.doc(d).get()));
+      const found = {};
+      let remoteEpoch = 0;
+      snaps.forEach((snap, i) => {
+        if (!snap.exists) return;
+        const body = snap.data();
+        found[DOCS[i]] = body.v;
+        remoteEpoch = Math.max(remoteEpoch, body.epoch || 0);
+      });
+      const base = defaults();
+      const remote = {};
+      for (const d of DOCS) remote[d] = found[d] === undefined ? base[d] : found[d];
+      if (remoteEpoch > epoch) {
+        state = remote;
+        epoch = remoteEpoch;
+        writeEpoch();
+        dirty.clear();
+      } else if (remoteEpoch < epoch || !Object.keys(found).length) {
+        DOCS.forEach((d) => dirty.add(d));
+      } else {
         const { state: merged, remoteStale } = Merge.mergeState(state, remote);
         state = merged;
-        DOCS.forEach(writeLocal);
         remoteStale.forEach((d) => dirty.add(d));
-        notify();
-        await flush();
-      } catch (e) {
-        setStatus("offline");
+      }
+      DOCS.forEach(writeLocal);
+      cloud = col;
+      notify();
+    }
+
+    // Write dirty docs, merging with whatever another device wrote meanwhile.
+    async function push(retried) {
+      for (const doc of [...dirty]) {
+        const ref = cloud.doc(doc);
+        const snap = await ref.get();
+        const body = snap.exists ? snap.data() : null;
+        const remoteEpoch = body ? body.epoch || 0 : -1;
+        if (remoteEpoch > epoch) {
+          // Another device reset progress: adopt its state, then retry once.
+          await pull();
+          if (!retried) return push(true);
+          return;
+        }
+        const value = body && remoteEpoch === epoch ? Merge.mergeDoc(doc, state[doc], body.v) : state[doc];
+        if (JSON.stringify(value) !== JSON.stringify(state[doc])) {
+          state = { ...state, [doc]: value };
+          writeLocal(doc);
+          notify();
+        }
+        await ref.set({ v: value, epoch });
+        dirty.delete(doc);
       }
     }
 
@@ -108,36 +162,34 @@
       writeLocal(doc);
       dirty.add(doc);
       notify();
-      if (cloud) {
+      if (conn) {
         clearTimeout(timer);
         timer = setTimeout(flush, debounceMs);
       }
     }
 
-    // Writes run one at a time so the same doc never has overlapping writes.
+    // One sync at a time; a failed sync keeps docs dirty for the next try.
     function flush() {
       clearTimeout(timer);
       timer = null;
       writing = writing.then(async () => {
-        if (!cloud || !dirty.size) return;
+        if (!conn) return;
         setStatus("syncing");
-        for (const doc of [...dirty]) {
-          dirty.delete(doc);
-          try {
-            await cloud.doc(doc).set({ v: state[doc] });
-          } catch (e) {
-            dirty.add(doc);
-            setStatus("offline");
-            return;
-          }
+        try {
+          if (!cloud) await pull();
+          await push(false);
+          setStatus("synced");
+        } catch (e) {
+          setStatus("offline");
         }
-        setStatus("synced");
       });
       return writing;
     }
 
     function reset() {
       state = defaults();
+      epoch = Math.max(epoch + 1, Date.now());
+      writeEpoch();
       DOCS.forEach((d) => {
         writeLocal(d);
         dirty.add(d);

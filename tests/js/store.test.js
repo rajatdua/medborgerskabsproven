@@ -28,6 +28,7 @@ function fakeDb(initial = {}) {
           const key = `${path}/${id}`;
           return {
             async get() {
+              if (api.failGet) throw { code: "unavailable" };
               const body = docs.get(key);
               return { exists: body !== undefined, data: () => body };
             },
@@ -133,4 +134,80 @@ test("onChange fires on update", () => {
   store.onChange(() => calls++);
   store.update("summary", (s) => s);
   assert.equal(calls, 1);
+});
+
+const entry = (t, b = 1) => ({ b, d: t, t, s: 1, p: false });
+const device = (db, storage = memoryStorage()) =>
+  Store.createStore({ storage, getDb: async () => db, getUser: async () => fakeUser, debounceMs: 10000 });
+
+test("failed load never lets a stale device overwrite newer cloud progress", async () => {
+  const db = fakeDb({
+    "data/users/u_me/srs": { v: { x: entry(2000, 4) } },
+    "data/users/u_me/summary": { v: { ...R.emptySummary(), xp: 800 } },
+  });
+  db.failGet = true;
+  const phone = device(db);
+  await phone.load();
+  assert.equal(phone.status, "offline");
+  phone.update("srs", (s) => ({ ...s, y: entry(1500) }));
+  phone.update("summary", (s) => ({ ...s, xp: 10 }));
+  await phone.flush();
+  assert.equal(db.docs.get("data/users/u_me/summary").v.xp, 800);
+  db.failGet = false;
+  await phone.flush();
+  const srs = db.docs.get("data/users/u_me/srs").v;
+  assert.deepEqual(Object.keys(srs).sort(), ["x", "y"]);
+  assert.equal(srs.x.b, 4);
+  assert.equal(db.docs.get("data/users/u_me/summary").v.xp, 800);
+  assert.equal(phone.status, "synced");
+});
+
+test("two open devices merge on write instead of replacing", async () => {
+  const db = fakeDb();
+  const laptop = device(db);
+  const phone = device(db);
+  await laptop.load();
+  await phone.load();
+  laptop.update("srs", (s) => ({ ...s, x: entry(1000) }));
+  laptop.update("summary", (s) => ({ ...s, xp: 500 }));
+  await laptop.flush();
+  phone.update("srs", (s) => ({ ...s, y: entry(1100) }));
+  phone.update("summary", (s) => ({ ...s, xp: 20 }));
+  await phone.flush();
+  assert.deepEqual(Object.keys(db.docs.get("data/users/u_me/srs").v).sort(), ["x", "y"]);
+  assert.equal(db.docs.get("data/users/u_me/summary").v.xp, 500);
+  assert.equal(phone.state.summary.xp, 500);
+});
+
+test("reset sticks when another device reloads", async () => {
+  const db = fakeDb();
+  const laptopStorage = memoryStorage();
+  const laptop = device(db, laptopStorage);
+  const phone = device(db);
+  await laptop.load();
+  laptop.update("summary", (s) => ({ ...s, xp: 500 }));
+  laptop.update("srs", (s) => ({ ...s, x: entry(1000) }));
+  await laptop.flush();
+  await phone.load();
+  await phone.reset();
+  const reloaded = device(db, laptopStorage);
+  await reloaded.load();
+  assert.equal(reloaded.state.summary.xp, 0);
+  assert.deepEqual(reloaded.state.srs, {});
+  assert.equal(db.docs.get("data/users/u_me/summary").v.xp, 0);
+});
+
+test("reset sticks when another open device writes afterwards", async () => {
+  const db = fakeDb();
+  const laptop = device(db);
+  const phone = device(db);
+  await laptop.load();
+  laptop.update("summary", (s) => ({ ...s, xp: 500 }));
+  await laptop.flush();
+  await phone.load();
+  await phone.reset();
+  laptop.update("summary", (s) => ({ ...s, xp: s.xp + 10 }));
+  await laptop.flush();
+  assert.ok(db.docs.get("data/users/u_me/summary").v.xp <= 10);
+  assert.ok(laptop.state.summary.xp <= 10);
 });

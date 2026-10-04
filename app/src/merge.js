@@ -45,6 +45,12 @@
     return (b.updatedAt || 0) > (a.updatedAt || 0) ? b : a;
   }
 
+  const BY_DOC = { srs: mergeSrs, summary: mergeSummary, history: mergeHistory, settings: mergeSettings };
+
+  function mergeDoc(doc, local, remote) {
+    return BY_DOC[doc](local, remote);
+  }
+
   function mergeState(local, remote) {
     if (!remote) return { state: local, remoteStale: [...DOCS] };
     const state = {
@@ -57,7 +63,7 @@
     return { state, remoteStale };
   }
 
-  const api = { DOCS, mergeSrs, mergeSummary, mergeHistory, mergeState };
+  const api = { DOCS, mergeDoc, mergeSrs, mergeSummary, mergeHistory, mergeState };
   if (typeof module === "object" && module.exports) module.exports = api;
   else root.Merge = api;
 })(typeof globalThis !== "undefined" ? globalThis : this);

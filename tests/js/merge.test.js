@@ -70,3 +70,10 @@ test("merging with empty remote returns local and marks all docs stale", () => {
   assert.deepEqual(merged, local);
   assert.deepEqual(remoteStale, ["srs", "summary", "history", "settings"]);
 });
+
+test("mergeDoc dispatches per document", () => {
+  assert.deepEqual(M.mergeDoc("srs", { a: { t: 1, b: 1 } }, { a: { t: 2, b: 0 }, b: { t: 1, b: 3 } }), { a: { t: 2, b: 0 }, b: { t: 1, b: 3 } });
+  assert.equal(M.mergeDoc("summary", { ...R.emptySummary(), xp: 5 }, { ...R.emptySummary(), xp: 9 }).xp, 9);
+  assert.equal(M.mergeDoc("history", [{ date: 1, score: 1 }], [{ date: 2, score: 2 }]).length, 2);
+  assert.equal(M.mergeDoc("settings", { lang: "da", updatedAt: 1 }, { lang: "en", updatedAt: 2 }).lang, "en");
+});
