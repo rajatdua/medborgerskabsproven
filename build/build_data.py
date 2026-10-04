@@ -42,12 +42,19 @@ def _warning(q, opts, last_exam):
     return None
 
 
+def unquote_field(field):
+    """Undo Anki's CSV quoting: "a ""b"" c" -> a "b" c."""
+    if len(field) >= 2 and field[0] == field[-1] == '"':
+        return field[1:-1].replace('""', '"')
+    return field
+
+
 def _parse_cards(cards_txt):
     cards = []
     for line in cards_txt.splitlines():
         if not line.strip() or line.startswith("#"):
             continue
-        q, a, tag = line.split("\t")
+        q, a, tag = (unquote_field(f) for f in line.split("\t"))
         cards.append({"id": item_id("c", q), "q": q, "a": a, "t": tag})
     return cards
 

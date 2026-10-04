@@ -35,8 +35,31 @@ def load_translations():
     return en
 
 
+SRC_DIR = os.path.join(ROOT, "content", "translations", "src")
+
+
+def merge_src():
+    """Zip src/NN.da.json with src/NN.en.json into translations/NN.json."""
+    from build_data import unquote_field
+
+    for da_path in sorted(glob.glob(os.path.join(SRC_DIR, "*.da.json"))):
+        en_path = da_path.replace(".da.json", ".en.json")
+        with open(da_path, encoding="utf-8") as f:
+            da = json.load(f)
+        with open(en_path, encoding="utf-8") as f:
+            en = json.load(f)
+        if len(da) != len(en):
+            raise SystemExit(f"{os.path.basename(en_path)}: {len(en)} entries, expected {len(da)}")
+        out = os.path.join(os.path.dirname(SRC_DIR), os.path.basename(da_path).replace(".da", ""))
+        with open(out, "w", encoding="utf-8") as f:
+            json.dump({unquote_field(d): e for d, e in zip(da, en)}, f, ensure_ascii=False, indent=0)
+
+
 def main(argv):
     from build_data import load_sources, build
+
+    if "--merge-src" in argv:
+        merge_src()
 
     exams, cards_txt = load_sources()
     en = load_translations()

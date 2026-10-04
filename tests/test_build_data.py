@@ -95,6 +95,12 @@ class BuildData(unittest.TestCase):
         self.assertIn({"t": "FA13_Folketing_og_regering", "da": "Folketing og regering"}, data["topics"])
         self.assertEqual(set(data["cards"][0]), {"id", "q", "a", "t"})
 
+    def test_card_csv_quotes_unescaped(self):
+        txt = '#separator:tab\n"Hvad er ""Festen""?"\t"Film (1998), fx ""Festen""."\tFA22_Kultur\n'
+        [card] = build([ex("2024-05", 1, "Hvad?", ["Ja", "Nej"])], txt, {})["cards"]
+        self.assertEqual(card["q"], 'Hvad er "Festen"?')
+        self.assertEqual(card["a"], 'Film (1998), fx "Festen".')
+
     def test_en_only_keeps_needed_strings(self):
         data = build([ex("2024-05", 1, "Hvad?", ["Ja", "Nej"])], SMALL_CARDS, {"Ja": "Yes", "Ubrugt": "Unused"})
         self.assertEqual(data["en"], {"Ja": "Yes"})
