@@ -1,0 +1,529 @@
+#separator:tab
+#html:false
+#tags column:3
+Hvor mange års undervisning skal alle børn mindst have i Danmark?	Mindst ti år (der er undervisningspligt, ikke skolepligt).	FA01_Skole
+Hvad koster det at gå i folkeskolen?	Det er gratis for alle børn.	FA01_Skole
+Hvor længe varer folkeskolen?	10 år: børnehaveklassen + 1.–9. klasse.	FA01_Skole
+Hvor gamle er børn omkring, når de starter i børnehaveklassen?	Omkring seks år.	FA01_Skole
+Hvad begynder børnene at lære i børnehaveklassen?	Bogstaver og tal.	FA01_Skole
+Hvad er folkeskolens tre trin?	Indskoling (børnehaveklasse–3. klasse), mellemtrin (4.–6. klasse) og udskoling (7.–9. klasse).	FA01_Skole
+Er 10. klasse frivillig eller obligatorisk?	Frivillig. Cirka halvdelen af eleverne tilmelder sig.	FA01_Skole
+Hvor kan man tage 10. klasse udover på sin egen skole?	På en efterskole eller en fri fagskole.	FA01_Skole
+Hvilken lov fastlægger rammerne for folkeskolen?	Folkeskoleloven.	FA01_Skole
+Hvad skal børn på friskoler og privatskoler lære i forhold til folkeskolen?	Det samme som i folkeskolen (undervisningen skal stå mål med folkeskolens).	FA01_Skole
+Skal forældre betale for friskole og privatskole?	Ja, forældrene betaler direkte til skolen. I folkeskolen betaler de ikke.	FA01_Skole
+Hvilke fire formål har folkeskolen (forbereder, fortrolig, forståelse, ...)?	Forberede til videre uddannelse, gøre eleverne fortrolige med dansk kultur og historie, give forståelse for andre lande og kulturer, og vise hvordan mennesket og naturen påvirker hinanden.	FA01_Skole
+Hvem har ret til at danne et elevråd?	Eleverne på skoler med 5. klassetrin eller højere.	FA01_Skole
+Hvem består et elevråd af?	Mindst én elev fra hver klasse.	FA01_Skole
+Hvor mange elevrepræsentanter sidder mindst i skolebestyrelsen?	Mindst to.	FA01_Skole
+Hvem har flertallet i skolebestyrelsen?	Forældrene.	FA01_Skole
+Hvem består skolebestyrelsen af?	Repræsentanter for forældre, personale og elever – evt. op til to fra lokalt erhvervsliv, ungdomsuddannelser eller foreninger.	FA01_Skole
+Fra hvilken klasse får eleverne karakterer i folkeskolen?	Fra 8. klasse (mindst to gange om året).	FA01_Skole
+Hvad hedder den danske karakterskala, og hvad er højeste og laveste karakter?	7-trins-skalaen. Højeste er 12, laveste er -3.	FA01_Skole
+Hvad er en meddelelsesbog?	Lærerens vurdering af, hvordan eleven klarer sig fagligt (og evt. socialt) – fra børnehaveklassen til og med 9. klasse.	FA01_Skole
+Hvor ofte inviteres forældre mindst til skole-hjem-samtale, og hvor længe varer den?	Mindst én gang om året; den varer som regel omkring 15 minutter.	FA01_Skole
+Hvor ofte holdes forældremøder i klassen?	På de fleste skoler en til to gange om året.	FA01_Skole
+Hvad kan et klasseråd bl.a. gøre?	Arrangere klassefester og lejrskoler, tage sig af sociale problemer (fx drilleri) og sende kritik videre til skolebestyrelsen.	FA01_Skole
+Hvornår skal en elev tilbydes specialundervisning?	Når eleven har brug for støtte i mindst ni undervisningstimer om ugen.	FA01_Skole
+Hvad er en efterskole?	En skole hvor eleverne bor og får undervisning – for 8., 9. eller 10. klasse. Det koster penge.	FA01_Skole
+Får de frie grundskoler offentlig støtte?	De fleste får økonomisk støtte fra det offentlige.	FA01_Skole
+Er uddannelse i Danmark som regel gratis eller betalt?	Som regel gratis.	FA02_Uddannelse
+Hvad betyder det, at Danmark kaldes et videnssamfund?	At stadig flere har et arbejde, hvor viden er den vigtigste ressource.	FA02_Uddannelse
+Hvad er FGU?	Forberedende grunduddannelse – for unge under 25 år uden ungdomsuddannelse og job, som har brug for en forberedende indsats.	FA02_Uddannelse
+Hvad er STU?	Særligt tilrettelagt ungdomsuddannelse – for unge under 25 år med særlige behov. Giver ikke i sig selv adgang til andre uddannelser.	FA02_Uddannelse
+Hvilke fire gymnasiale uddannelser findes der?	stx (almen studentereksamen), hhx (merkantil), htx (teknisk) og hf.	FA02_Uddannelse
+Hvor lang tid varer stx, hhx og htx – og hvor lang tid varer hf?	stx, hhx og htx tager tre år. hf tager to år.	FA02_Uddannelse
+Hvad handler hhx om, og hvilken eksamen får man?	Handel: økonomi, afsætning, international økonomi. Man får merkantil studentereksamen (på et handelsgymnasium).	FA02_Uddannelse
+Hvad handler htx om, og hvilken eksamen får man?	Naturvidenskabelige og teknologiske fag. Man får teknisk studentereksamen (på et teknisk gymnasium).	FA02_Uddannelse
+Hvilke uddannelser er hf-eksamen særligt rettet mod?	Korte og mellemlange videregående uddannelser på professionshøjskoler og erhvervsakademier.	FA02_Uddannelse
+Hvad giver alle fire gymnasiale uddannelser adgang til?	En videregående uddannelse.	FA02_Uddannelse
+Hvor mange forskellige erhvervsuddannelser findes der?	Mere end 100.	FA02_Uddannelse
+Hvordan er en erhvervsuddannelse opbygget?	Et grundforløb på en erhvervsskole og et hovedforløb, hvor skole kombineres med praktisk oplæring (som regel i en virksomhed).	FA02_Uddannelse
+Hvor lang tid kan en erhvervsuddannelse tage?	Mellem 1½ og 5½ år.	FA02_Uddannelse
+Hvad får man, hvis man ikke kan finde en læreplads efter grundforløbet?	Oplæring på et skoleoplæringscenter – og skoleoplæringsydelse i stedet for løn.	FA02_Uddannelse
+Hvad står eud, euv og eux for?	eud = for unge; euv = for voksne over 25; eux = erhvervsuddannelse kombineret med gymnasial eksamen (svendebrev + erhvervsfaglig studentereksamen).	FA02_Uddannelse
+Hvilke fire hovedområder har erhvervsuddannelserne?	Kontor, handel og forretningsservice; Fødevarer, jordbrug og oplevelser; Teknologi, byggeri og transport; Sundhed, omsorg og pædagogik.	FA02_Uddannelse
+Hvor mange erhvervsakademier er der, og hvor lang tid tager en erhvervsakademiuddannelse?	Syv erhvervsakademier. Uddannelsen tager typisk omkring to år (med praktik).	FA02_Uddannelse
+Hvor mange professionshøjskoler er der, og hvor lang tid tager en professionsbacheloruddannelse?	Syv professionshøjskoler. Uddannelsen tager normalt tre-fire år (med praktik).	FA02_Uddannelse
+Nævn eksempler på professionsbacheloruddannelser.	Folkeskolelærer, jordemoder, sygeplejerske, socialrådgiver, pædagog, fysioterapeut, diplomingeniør, journalist.	FA02_Uddannelse
+Hvor mange universiteter er der i Danmark, og hvor lang tid tager bachelor og kandidat?	Otte universiteter. Bachelor ca. tre år, kandidat ca. to år.	FA02_Uddannelse
+Hvad står SU for?	Statens Uddannelsesstøtte – økonomisk støtte fra staten til studerende.	FA02_Uddannelse
+Hvad er en diplomuddannelse?	En videregående uddannelse på deltid på bachelorniveau, typisk 2–3 år. Man betaler selv.	FA02_Uddannelse
+Hvad står AMU for?	Arbejdsmarkedsuddannelser – korte kurser, primært for faglærte og ufaglærte.	FA02_Uddannelse
+Hvad er FVU, og hvor tager man det?	Kurser for voksne med problemer med at stave, læse eller regne. Tages på VUC. Normalt fra 25 år.	FA02_Uddannelse
+Hvad er OBU?	Ordblindeundervisning for voksne på VUC. Normalt fra 25 år.	FA02_Uddannelse
+Hvad er avu?	Almen voksenuddannelse på VUC – enkeltfag på grundskoleniveau. Højeste niveau er D. Normalt fra 25 år.	FA02_Uddannelse
+Hvad står VUC for?	Voksenuddannelsescentre.	FA02_Uddannelse
+Hvem er ansvarlig for dagtilbud i Danmark?	Kommunerne.	FA03_Dagtilbud
+Har alle børn ret til en plads i et dagtilbud?	Ja.	FA03_Dagtilbud
+Hvem betaler for dagtilbud?	Kommunen betaler en del, forældrene betaler resten. Ved lav indkomst eller enlig forsørger kan man søge om tilskud.	FA03_Dagtilbud
+Hvorfor ville man siden 1960'erne have børn passet uden for hjemmet?	For at få kvinderne ud på arbejdsmarkedet.	FA03_Dagtilbud
+Hvilken aldersgruppe er vuggestue for?	Børn fra cirka seks måneder op til cirka tre år.	FA03_Dagtilbud
+Hvad er dagpleje?	Passes af en dagplejer sammen med to-fire andre børn i dagplejerens private hjem (ca. 6 måneder – 3 år).	FA03_Dagtilbud
+Hvilken aldersgruppe er børnehave for?	Børn fra cirka tre år op til seks år.	FA03_Dagtilbud
+Hvad står SFO for?	SkoleFritidsOrdning – passer børn i folkeskolen før og efter skoletid.	FA03_Dagtilbud
+Hvem er klubtilbud for?	De større børn og unge, efter skoletid.	FA03_Dagtilbud
+Hvem vælger forældrebestyrelsen, og hvad har den indflydelse på?	Forældrene vælger repræsentanter. Bestyrelsen har indflydelse på institutionens økonomi og aktiviteter.	FA03_Dagtilbud
+Må man ryge i dagplejehjemmet?	Ikke i de dele, hvor børnene opholder sig.	FA03_Dagtilbud
+Hvem bestemmer de fleste regler om ansættelsesforhold i Danmark?	Arbejdsmarkedets parter – fagforeningerne og arbejdsgiverorganisationerne (ikke Folketinget). Systemet går tilbage til 1899.	FA04_Arbejdsmarked
+Hvad er en kollektiv overenskomst?	En aftale mellem fagforeninger og arbejdsgiverorganisationer om løn, arbejdstid osv. Varer oftest to eller tre år.	FA04_Arbejdsmarked
+Hvad er fredspligt?	Ingen strejker eller lockout, så længe overenskomsten gælder.	FA04_Arbejdsmarked
+Hvad er en strejke?	Lønmodtagere standser arbejdet, indtil der er indgået en overenskomst.	FA04_Arbejdsmarked
+Hvad er en lockout?	Arbejdsgiveren forbyder fagforeningsmedlemmer at komme på arbejde, indtil der er indgået en overenskomst.	FA04_Arbejdsmarked
+Hvilke instanser afgør overtrædelser af overenskomster?	Arbejdsretten og faglige voldgiftsretter (uden for de almindelige domstole).	FA04_Arbejdsmarked
+Hvad kaldes det system, hvor parterne og ikke Folketinget bestemmer arbejdsmarkedets forhold?	Den danske model.	FA04_Arbejdsmarked
+Hvad er flexicurity?	Let for arbejdsgivere at ansætte og fyre (fleksibilitet) – til gengæld er de ansatte økonomisk sikret via dagpenge (sikkerhed).	FA04_Arbejdsmarked
+Er der en lovbestemt mindsteløn i Danmark?	Nej. Det afhænger af de kollektive overenskomster.	FA04_Arbejdsmarked
+Hvad er bestemt ved lov (og ikke overenskomst) i forhold til ferie?	Fem ugers ferie er bestemt ved lov.	FA04_Arbejdsmarked
+Hvilken strejke stoppede Folketinget i 2021?	Sygeplejerskernes strejke (efter over to måneder) – Folketinget bestemte aftalen ved lov.	FA04_Arbejdsmarked
+Hvilke grupper er ofte ikke dækket af overenskomster?	Mange højtuddannede i det private (ingeniører, økonomer, jurister), restaurationsbranchen og traditionelt landbruget.	FA04_Arbejdsmarked
+Hvor stor en andel af lønmodtagerne er medlem af en fagforening i dag?	Omkring to ud af tre (68 procent). I 1990 var det ca. fem ud af seks.	FA04_Arbejdsmarked
+Er det et krav at være medlem af en fagforening?	Nej, det er frivilligt. Ingen må tvinge en til at være medlem.	FA04_Arbejdsmarked
+Må en arbejdsgiver fyre en person, fordi vedkommende melder sig ind eller ud af en fagforening?	Nej.	FA04_Arbejdsmarked
+Hvilke faggrupper repræsenterer HK?	Handel og kontor: butiksansatte, laboranter, sekretærer, receptionister, klinikassistenter.	FA04_Arbejdsmarked
+Hvilke faggrupper repræsenterer FOA?	Hjemmepleje, SOSU-assistenter, brandmænd, kantinepersonale.	FA04_Arbejdsmarked
+Hvilke faggrupper repræsenterer 3F?	Industri, transport og byggeri: svejsere, chauffører, murere, tømrere, rengøringsassistenter og andre ufaglærte.	FA04_Arbejdsmarked
+Hvem vælger tillidsrepræsentanten, og hvor mange ansatte skal der typisk være?	Fagforeningens medlemmer på arbejdspladsen vælger – typisk på arbejdspladser med mere end ti ansatte. Arbejdsgiveren er ikke med til mødet.	FA04_Arbejdsmarked
+Hvad er tillidsrepræsentantens opgave?	At repræsentere de ansatte over for ledelsen (fx ved lønforhandlinger) og give råd. Har særlig beskyttelse mod fyring.	FA04_Arbejdsmarked
+Hvad kaldes fagforeningens møder på arbejdspladsen?	Klubmøder.	FA04_Arbejdsmarked
+Hvad er arbejdsmiljørepræsentantens opgave?	At holde øje med det fysiske og psykiske arbejdsmiljø (fx sikkerhedsudstyr, støtte, mobning, stress).	FA04_Arbejdsmarked
+Hvem skal have et ansættelsesbevis, og hvornår?	Alle der arbejder mere end tre timer om ugen i over fire uger – senest en måned efter ansættelsen.	FA04_Arbejdsmarked
+Hvad må en arbejdsgiver ikke spørge om ved jobsamtale?	Helbred (uden betydning for jobbet), sygedage i tidligere job, graviditet/børneplaner og religion.	FA04_Arbejdsmarked
+Hvad er den mest almindelige arbejdstid pr. uge?	37 timer.	FA04_Arbejdsmarked
+Kan arbejdsgiveren forlange, at man går på deltid?	Nej. Man kan bede om nedsat tid, men arbejdsgiveren bestemmer, om man får lov.	FA04_Arbejdsmarked
+Hvor mange feriedage optjener man pr. måned, og hvor mange ugers ferie får man pr. år?	Cirka to feriedage pr. måned – fem ugers betalt ferie efter et helt år. Nogle har en sjette uge.	FA04_Arbejdsmarked
+Hvornår har man normalt ret til tre ugers sammenhængende ferie?	Mellem 1. maj og 30. september.	FA04_Arbejdsmarked
+Hvad er et samarbejdsudvalg?	Et udvalg på større arbejdspladser, hvor ledelse og de ansattes tillidsrepræsentanter diskuterer forholdene.	FA04_Arbejdsmarked
+Hvad kræver reglerne om fyring af arbejdsgiveren i de fleste tilfælde?	En saglig og reel grund (fx uegnethed, samarbejdsproblemer eller besparelser).	FA04_Arbejdsmarked
+Hvad må en arbejdsgiver ikke fyre en ansat på grund af?	Køn, race, hudfarve, religion, politiske holdninger, seksuel orientering, alder, handicap, national/social/etnisk oprindelse, graviditet eller barsel.	FA04_Arbejdsmarked
+Hvad er en a-kasse?	En arbejdsløshedskasse – en frivillig forsikring (medlemsforening), som giver dagpenge ved ledighed. Støttes af staten.	FA04_Arbejdsmarked
+Hvad skal man gøre for at få dagpenge?	Have arbejdet forud, stå til rådighed for arbejdsmarkedet, søge job aktivt, tage imod tilbudt arbejde og deltage i samtaler og indsatser.	FA04_Arbejdsmarked
+Hvad hedder den digitale jobplan for ledige?	"""Min Plan""."	FA04_Arbejdsmarked
+Hvornår overtager kommunen ansvaret for et a-kasse-medlem, der er ledigt?	Efter fire måneders ledighed.	FA04_Arbejdsmarked
+Hvad kan man få, hvis man mister sit arbejde og ikke er medlem af en a-kasse?	Kontanthjælp fra kommunen (afhænger af egen og ægtefællens indkomst og formue). Normalt lavere end dagpenge.	FA04_Arbejdsmarked
+Hvor registrerer man sig som selvstændig erhvervsdrivende?	Hos Erhvervsstyrelsen (via dens hjemmeside).	FA04_Arbejdsmarked
+Hvad har en selvstændig pligt til?	At føre regnskab og opgive virksomhedens overskud eller underskud til SKAT.	FA04_Arbejdsmarked
+Hvor mange fuldtidslandmænd er der omtrent i Danmark i dag?	Ca. 10.000 (mod knap 200.000 før 1960).	FA05_Erhvervsliv
+Hvor stor en del af landbrugsarealet drives økologisk?	Omkring 11 procent.	FA05_Erhvervsliv
+Hvad er et andelsselskab, og hvor mange stemmer har hver landmand?	Et selskab ejet af landmændene selv. Hver landmand har én stemme, uanset hvor meget han leverer.	FA05_Erhvervsliv
+Hvad hedder de to store andelsselskaber for mejerier og slagterier?	Arla (mejeri) og Danish Crown (slagteri).	FA05_Erhvervsliv
+Hvilke lande kommer Arlas ejere fra?	Danmark, Sverige, Tyskland, Holland, Belgien, Luxembourg og Storbritannien (næsten 10.000 landmænd).	FA05_Erhvervsliv
+Hvilken virksomhed er kendt for byggeklodser?	LEGO.	FA05_Erhvervsliv
+Hvilken dansk medicinalvirksomhed fremstiller bl.a. insulin?	Novo Nordisk.	FA05_Erhvervsliv
+Hvor stor en del af verdens høreapparater fremstilles i Danmark?	Over en tredjedel.	FA05_Erhvervsliv
+Hvad er verdens største vindmølleproducent (2024), og hvor ligger den?	Vestas – i Danmark.	FA05_Erhvervsliv
+Hvilken mølle fra 1957 inspirerede den moderne vindmølleindustri?	Gedser-møllen (og Tvind-møllen 1975–78).	FA05_Erhvervsliv
+Hvad producerer Rockwool, Grundfos, Danfoss og Velux?	Rockwool = isolering; Grundfos = pumper; Danfoss = termostater; Velux = vinduer.	FA05_Erhvervsliv
+Fra hvilket land importerer Danmark mest, og til hvilket land eksporterer Danmark mest?	Importerer mest fra Tyskland; eksporterer mest til USA.	FA05_Erhvervsliv
+Hvem er Danmarks to største handelspartnere i 2025?	USA (14,1 %) og Tyskland (12,7 %). Derefter Sverige, Holland, Storbritannien, Kina, Norge.	FA05_Erhvervsliv
+Hvad er Mærsk?	Et dansk rederi – et af verdens to største containerrederier.	FA05_Erhvervsliv
+Hvornår er det planen, at dansk olieproduktion skal være stoppet helt?	Inden 2050.	FA05_Erhvervsliv
+Hvad er ISS?	Dansk servicevirksomhed (rengøring, ejendomsservice, sikkerhed) med ca. en halv million ansatte verden over.	FA05_Erhvervsliv
+Hvad er princippet i det danske velfærdssamfund?	Alle der kan, bidrager (arbejder og betaler skat), og alle der har behov, kan få hjælp fra det offentlige.	FA06_Velfærd
+Hvem betaler velfærden?	Borgerne via skatter, moms, afgifter – samt selskabsskatter, ejendomsskatter og afkast af pensionsopsparing.	FA06_Velfærd
+Hvad er princippet for skat i Danmark?	Jo mere man tjener, jo større del af lønnen betaler man i skat.	FA06_Velfærd
+Hvor stor er momsen i Danmark?	25 procent.	FA06_Velfærd
+Hvad er børnechecken?	Børne- og ungeydelse til forældre med børn under 18 år. Høje indkomster får mindre eller ingenting.	FA06_Velfærd
+Hvad kaldes økonomisk hjælp ved længere tids sygdom?	Sygedagpenge.	FA06_Velfærd
+Hvad er et fleksjob?	Man arbejder og tjener en del selv og får resten som offentlig ydelse – for dem med begrænset arbejdsevne.	FA06_Velfærd
+Hvem kan få førtidspension?	Personer med en varig og væsentligt nedsat arbejdsevne.	FA06_Velfærd
+Fra hvilken alder kan man få folkepension i 2026?	Fra 67 år (aldersgrænsen hæves gradvist).	FA06_Velfærd
+Hvad er kravet til bopæl for folkepension og førtidspension?	Dansk statsborger (hovedregel), fast bopæl i Danmark og mindst tre års ophold fra det fyldte 15. år.	FA06_Velfærd
+Hvor længe skal man have boet i Danmark for fuld folkepension?	40 år. Har man boet her kortere tid, får man pension i forhold til antal år.	FA06_Velfærd
+Hvad er arbejdsmarkedspension?	Pension der indbetales via ens arbejde – kommer ud over folkepensionen.	FA06_Velfærd
+Hvad er boligstøtte?	Støtte til huslejen for lejere med lav indkomst. Pensionister med lav indkomst kan ofte få højere boligstøtte.	FA06_Velfærd
+Hvad kaldes sundhedskortet i daglig tale?	"""Det gule kort"". Alle der er tilmeldt CPR får det."	FA06_Velfærd
+Hvad betyder sikringsgruppe 1?	Man er tilmeldt en bestemt praktiserende læge og skal have henvisning til speciallæge (undtagen øre- og øjenlæge) for gratis behandling.	FA06_Velfærd
+Hvad koster det at låne bøger på biblioteket?	Det er gratis.	FA06_Velfærd
+Hvilke to broer koster penge at køre over?	Øresundsbroen og Storebæltsbroen.	FA06_Velfærd
+Hvad er afgifter, og hvorfor har man dem?	Særlige skatter på fx biler, benzin, alkohol, cigaretter, batterier, engangsservice og bæreposer – begrundet i indtægter, miljø og sundhed.	FA06_Velfærd
+Hvor gammel skal man mindst være for at blive gift?	18 år.	FA07_Familieliv
+Må man være gift med flere personer på én gang?	Nej – kun én ad gangen.	FA07_Familieliv
+Må man tvinge nogen til at blive gift?	Nej. Begge parter skal ønske ægteskabet.	FA07_Familieliv
+Kan par af samme køn blive gift og adoptere børn?	Ja, på lige fod med andre par.	FA07_Familieliv
+Hvor kan man blive gift?	På rådhuset, i folkekirken eller i anerkendte trossamfund (præsten/lederen skal have bemyndigelse for at vielsen er gyldig).	FA07_Familieliv
+Hvad betyder fælles forældremyndighed?	At forældrene sammen tager vigtige beslutninger om barnet (navn, opdragelse, skole, religion, pasning).	FA07_Familieliv
+Hvordan får ugifte forældre fælles forældremyndighed?	Ved i forbindelse med fødslen at afgive en erklæring om, at de sammen vil varetage omsorgen og ansvaret.	FA07_Familieliv
+Hvor stor en andel af ægteskaber ender med skilsmisse?	Cirka 40 procent.	FA07_Familieliv
+Hvad er separation?	En slags prøvetid, hvor man stadig er gift, men normalt bor hver for sig.	FA07_Familieliv
+Hvornår har man ret til skilsmisse efter separation?	Efter et halvt års separation. Er man enige, kan man blive skilt med det samme.	FA07_Familieliv
+Hvem hjælper forældre, der ikke kan blive enige om børnene efter skilsmisse?	Familieretshuset. Kan de stadig ikke blive enige, kan Familieretshuset eller domstolene afgøre samvær, forældremyndighed og bopæl.	FA07_Familieliv
+Hvem besøger nyfødte børn i hjemmet, og koster det noget?	En sundhedsplejerske. Besøgene er gratis.	FA07_Familieliv
+Hvor længe kan en kvinde få abort?	Inden udgangen af 18. graviditetsuge. Det er gratis, og kvinden bestemmer selv.	FA07_Familieliv
+Hvilken tilladelse kræver abort, hvis kvinden er under 18?	Tilladelse fra forældrene (i særlige tilfælde kan hun søge uden).	FA07_Familieliv
+Hvad kan man få, hvis man ikke får løn under barsel?	Barselsdagpenge (man skal have optjent retten via arbejde eller a-kasse).	FA07_Familieliv
+Må man slå børn i Danmark?	Nej – det er forbudt.	FA07_Familieliv
+Fra hvilken alder må børn normalt have lønnet arbejde uden for hjemmet?	13 år (børn under 13 må normalt ikke).	FA07_Familieliv
+Hvad er den seksuelle lavalder?	15 år – det er forbudt at have sex med unge under 15.	FA07_Familieliv
+Fra hvilken alder kan man straffes?	Fra 15 år. Børn under 15 kan ikke straffes.	FA07_Familieliv
+Hvor gammel skal man være for at købe almindelig øl?	16 år.	FA07_Familieliv
+Hvor gammel skal man være for at købe meget stærk øl, vin, spiritus og cigaretter?	18 år.	FA07_Familieliv
+Hvor gammel skal man være for at få kørekort til bil?	17 år.	FA07_Familieliv
+Hvilke regler gælder for 17-årige med kørekort?	De må køre uden ledsager kl. 5–20. Kl. 20–5 skal de have en ledsager over 24 år med mindst fem års kørekort.	FA07_Familieliv
+Hvornår bliver man myndig i Danmark, og hvad betyder det?	Ved 18 år. Man har stemmeret, kan låne penge i banken og har ansvar for sig selv.	FA07_Familieliv
+Hvad har man pligt til, hvis man kender til vold eller overgreb mod børn under 18?	At kontakte kommunen og anmelde det.	FA07_Familieliv
+Skal myndighederne godkende en forening, før den dannes?	Nej. Alle (også udlændinge) har ret til at danne en forening.	FA08_Foreninger
+Hvilke tre friheder hænger retten til at danne foreninger sammen med?	Foreningsfrihed, forsamlingsfrihed og ytringsfrihed (står i grundloven).	FA08_Foreninger
+Hvad betyder det at være frivillig?	At udføre arbejde for foreningen uden at få løn.	FA08_Foreninger
+Hvor kommer foreningers penge fra?	Medlemmernes kontingent, offentlige tilskud og private aktører (fonde og virksomheder).	FA08_Foreninger
+Hvad er en lektiecafé?	Frivillige hjælper skolebørn med lektierne.	FA08_Foreninger
+Hvad er en venskabsfamilie?	En familie hjælper en anden familie med behov for støtte (fx børnenes skolegang eller pasning).	FA08_Foreninger
+Hvad er en mentorordning?	En mentor giver råd og vejledning til fx en studerende, der har brug for støtte.	FA08_Foreninger
+Hvad er et værested?	Et sted hvor fx hjemløse kan få et måltid mad eller en kop kaffe.	FA08_Foreninger
+Hvad er en besøgsven?	En frivillig, der besøger ensomme ældre mennesker.	FA08_Foreninger
+Hvad er BørneTelefonen og Livslinjen?	BørneTelefonen: telefonrådgivning for børn og unge med problemer. Livslinjen: rådgivning for mennesker med selvmordstanker.	FA08_Foreninger
+Er der eksamen på aftenskoler?	Nej. Man skal betale for at gå der.	FA08_Foreninger
+Nævn oplysningsforbund, der står for aftenskoler.	AOF, LOF, FOF, DOF og FORA.	FA08_Foreninger
+Hvor mange højskoler er der i Danmark?	Omkring 70.	FA08_Foreninger
+Hvor lange er korte og lange kurser på højskoler?	Korte: omkring en uge (ofte i sommerferien). Lange: som regel tre til fem måneder.	FA08_Foreninger
+Hvem var Grundtvig, og hvad betyder han for højskolerne?	Nikolaj Frederik Severin Grundtvig (1783–1872), digter og præst. Hans idéer inspirerede højskolerne – undervisning for alle skaber demokrati.	FA08_Foreninger
+Er der eksamen på højskoler?	Nej. Man lærer for sin egen skyld, ikke for karakterer.	FA08_Foreninger
+Hvad skal man bruge for at låne på biblioteket?	Sundhedskort eller et lånerkort fra biblioteket.	FA08_Foreninger
+Hvad er eReolen og Filmstriben?	Bibliotekernes gratis online-tjenester til at låne/streame e-bøger og lydbøger (eReolen) og film og tv-serier (Filmstriben).	FA08_Foreninger
+Hvornår får man sundhedskortet?	Når man bliver registreret i CPR (Det Centrale Personregister) i en kommune.	FA09_Sundhed
+Hvad koster det at gå til sin praktiserende læge?	Det er gratis.	FA09_Sundhed
+"Hvad betyder det, at lægen ""henviser"" en patient?"	Lægen sender patienten til speciallæge, fysioterapeut eller sygehus. Man skal ikke have henvisning ved akut sygehusbesøg.	FA09_Sundhed
+Hvad er forskellen på receptpligtig medicin og håndkøbsmedicin?	Receptpligtig kræver recept fra lægen (kun på apotek). Håndkøbsmedicin kan købes uden recept – også i nogle supermarkeder.	FA09_Sundhed
+Hvem driver de offentlige sygehuse?	De danske regioner. Behandling er gratis.	FA09_Sundhed
+Hvad betyder ambulant behandling?	Undersøgelse eller behandling uden at man bliver indlagt.	FA09_Sundhed
+Hvad skal man gøre, før man møder op på akutmodtagelsen?	Ringe til akutmodtagelsen først.	FA09_Sundhed
+Hvad er frit sygehusvalg?	At man normalt selv kan vælge, hvilket offentligt sygehus man vil behandles på.	FA09_Sundhed
+Hvornår kan man blive henvist til et privat sygehus gratis?	Hvis man skal vente mere end en måned på behandling på et offentligt sygehus.	FA09_Sundhed
+Har man ret til tolk hos lægen eller på sygehuset?	Ja. I nogle tilfælde skal man betale et gebyr.	FA09_Sundhed
+Til hvilken alder er tandpleje gratis for børn og unge?	Til og med 21 år (i bopælskommunen).	FA09_Sundhed
+Hvad betaler voksne for tandlæge?	Voksne fra 22 år vælger selv en privat tandlæge og betaler selv – med offentligt tilskud.	FA09_Sundhed
+Hvor mange forebyggende børneundersøgelser kan et barn få, og hvornår?	Syv undersøgelser hos lægen, fra barnet er fem uger til fem år.	FA09_Sundhed
+Er børnevaccinationer gratis?	Ja – gives af den praktiserende læge. Rejsevaccinationer betaler man selv.	FA09_Sundhed
+Hvad er livsstilssygdomme?	Sygdomme der hænger sammen med måden man lever på, fx rygning, alkohol eller fed mad.	FA09_Sundhed
+Hvad er aldersgrænsen for at købe alkohol over seks procent?	18 år (øl under 6 % fra 16 år). I nattelivszoner: 18 år for at købe alkohol efter kl. 22.	FA09_Sundhed
+Hvor er det forbudt at ryge indendørs?	På offentlige steder (busser, sportshaller, biografer), arbejdspladser, skoler og langt de fleste restauranter, caféer, barer og diskoteker.	FA09_Sundhed
+Hvor skal tobaksvarer og e-cigaretter placeres i butikker?	Gemmes væk, så kunderne ikke kan se dem.	FA09_Sundhed
+Hvad betyder ligebehandling og ligestilling?	At alle borgere uanset køn, etnisk oprindelse eller religion skal behandles lige.	FA10_Ligestilling
+Hvilke grunde må man ikke forskelsbehandle på i arbejdslivet?	Køn, race, hudfarve, religion eller tro, politisk anskuelse, seksuel orientering, alder, handicap, national/social/etnisk baggrund.	FA10_Ligestilling
+Hvad siger loven om ligeløn?	Mænd og kvinder har krav på samme løn for samme arbejde.	FA10_Ligestilling
+Hvor kan man klage over ulovlig forskelsbehandling, og koster det noget?	Ligebehandlingsnævnet. Det er gratis at klage.	FA10_Ligestilling
+Hvornår fik kvinder stemmeret til Folketinget?	I 1915 (ved en grundlovsændring).	FA10_Ligestilling
+Hvornår blev Danmarks første frie forfatning underskrevet?	1849.	FA10_Ligestilling
+Hvor mange af Folketingets 179 medlemmer er kvinder?	86 (48 procent).	FA10_Ligestilling
+Hvem var Danmarks første kvindelige minister?	Nina Bang – undervisningsminister i 1924.	FA10_Ligestilling
+Hvem var Danmarks første kvindelige statsminister?	Helle Thorning-Schmidt i 2011.	FA10_Ligestilling
+Hvilke forpligtelser har ægtefæller over for hinanden?	Begge har pligt til at forsørge hinanden og deres børn.	FA10_Ligestilling
+Har kvinder og mænd ret til skilsmisse, selv hvis ægtefællen ikke ønsker det?	Ja.	FA10_Ligestilling
+Hvem bestemmer over en persons løn og penge?	Personen selv (alle over 18) – uanset om man er gift, kvinde eller mand.	FA10_Ligestilling
+Hvad er regnbueflaget et symbol for?	LGBT+-personer.	FA10_Ligestilling
+Hvad er Danmarks forfatning kaldt?	Danmarks Riges Grundlov (grundloven).	FA11_Demokrati
+Hvornår fik Danmark sin første grundlov, og hvornår blev den sidst ændret?	Første: 1849. Seneste ændring: 1953.	FA11_Demokrati
+Hvad skal der til for at ændre grundloven?	Det siddende Folketing vedtager forslaget → nyvalg → det nye Folketing vedtager det uændret → folkeafstemning. Kræver flertal af deltagerne og mindst 40 % af alle vælgere.	FA11_Demokrati
+Hvad var valgretsalderen i 1849 for at stemme og for at blive valgt til Folketinget?	Man skulle være 30 år for at stemme og 25 år for at blive valgt (kun mænd). I dag er det 18 år.	FA11_Demokrati
+Hvad er ytringsfrihed, og hvad er begrænsningen?	Retten til offentligt at sige og skrive, hvad man mener, uden forhåndsgodkendelse. Ytringer må ikke være ulovlige (fx injurier og racisme) – ellers kan man straffes bagefter.	FA11_Demokrati
+Hvad er forsamlingsfrihed, og hvornår skal politiet have besked?	Retten til at mødes til offentlige møder og demonstrationer. Politiet skal have besked senest 24 timer i forvejen (ellers kan man få en bøde).	FA11_Demokrati
+Hvad er foreningsfrihed, og hvad er begrænsningen?	Retten til at danne foreninger med lovligt formål uden tilladelse. Foreninger med voldeligt formål kan opløses – domstolene afgør det.	FA11_Demokrati
+Hvad betyder boligens ukrænkelighed?	At politiet som udgangspunkt ikke må gå ind i folks hjem uden en dommers godkendelse.	FA11_Demokrati
+Hvad betyder den personlige frihed i forhold til anholdelse?	En anholdt skal inden 24 timer stilles for en dommer.	FA11_Demokrati
+Hvad siger grundloven om religion?	Man kan selv vælge religion (religionsfrihed). Den danske folkekirke har en særstilling og understøttes af staten.	FA11_Demokrati
+Hvad er et monarki?	En styreform med en monark (konge eller dronning) som statsoverhoved.	FA11_Demokrati
+Hvem er Danmarks konge, og hvornår arvede han tronen?	Kong Frederik 10. – i 2024 efter sin mor, Dronning Margrethe 2.	FA11_Demokrati
+Hvem arver tronen efter Frederik 10.?	Kronprins Christian (monarkens ældste barn arver tronen).	FA11_Demokrati
+Hvilken politisk magt har kongen?	Ingen. Han underskriver love sammen med en minister og har officielle funktioner ved regeringsdannelse.	FA11_Demokrati
+Hvem er gift med kong Frederik 10., og hvor kommer hun fra?	Dronning Mary, fra Australien (gift siden 2004). De har fire børn.	FA11_Demokrati
+Hvad er Frederik 10.s børns navne?	Kronprins Christian, prinsesse Isabella samt tvillingerne prins Vincent og prinsesse Josephine.	FA11_Demokrati
+Hvornår holder kongen nytårstale?	Hvert år på nytårsaften den 31. december (vises i fjernsynet).	FA11_Demokrati
+Hvad var enevælde, og hvor længe varede den?	En styreform hvor kongen havde magten alene – fra 1660–61 til 1849.	FA11_Demokrati
+Hvem var Danmarks sidste enevældige konge?	Frederik 7. (blev konge i 1848 og afgav magten).	FA11_Demokrati
+Hvad er statsmagtens tredeling?	Lovgivende magt (regering + Folketing), udøvende magt (regeringen) og dømmende magt (domstolene).	FA11_Demokrati
+Hvem har den lovgivende magt?	Regeringen og Folketinget i forening.	FA11_Demokrati
+Hvem har den udøvende magt?	Regeringen (ministre og embedsmænd sørger for at lovene føres ud i livet).	FA11_Demokrati
+Hvem har den dømmende magt?	Domstolene – de er uafhængige.	FA11_Demokrati
+Hvad er formålet med magtens tredeling?	At Folketinget kan kontrollere regeringen, og at domstolene kan vurdere, om afgørelser og love er lovlige og forenelige med grundloven.	FA11_Demokrati
+Hvem underskriver et vedtaget lovforslag?	Kongen og en minister – derefter offentliggøres loven.	FA11_Demokrati
+Hvad er politiets opgave?	Sikre ro og orden samt forhindre, efterforske og opklare kriminalitet.	FA12_Retssamfund
+Må politiet bruge vold eller trusler under afhøring?	Nej.	FA12_Retssamfund
+Hvor lang tid må politiet holde en anholdt, før personen skal for en dommer?	Højst 24 timer – ellers skal personen løslades.	FA12_Retssamfund
+Hvem afgør, om en person skal straffes?	Domstolene (politiet efterforsker).	FA12_Retssamfund
+Hvad betyder det, at domstolene er uafhængige?	Regeringen og Folketinget kan ikke bestemme, hvordan de dømmer, og kan ikke afskedige en dommer. Dommere retter sig kun efter lovene.	FA12_Retssamfund
+Hvor mange byretter er der, og hvad kan man gøre efter en byretsdom?	24 byretter (plus Sø- og Handelsretten). Man kan normalt anke til landsretten.	FA12_Retssamfund
+Hvad hedder de to landsretter, og hvor ligger de?	Østre Landsret i København og Vestre Landsret i Viborg.	FA12_Retssamfund
+Hvad hedder Danmarks øverste domstol?	Højesteret.	FA12_Retssamfund
+Hvad er de almindelige straffe i Danmark, og hvad er den hårdeste?	Bøde eller fængsel. Hårdeste: fængsel på livstid. Der er ikke dødsstraf.	FA12_Retssamfund
+Hvad er forskellen på betinget og ubetinget fængselsstraf?	Ubetinget skal afsones. Betinget kan undgås, hvis man opfylder betingelser (fx ingen ny kriminalitet, samfundstjeneste).	FA12_Retssamfund
+Hvad er en straffeattest, og hvor længe står oplysninger på den private?	Dokument der viser, om man har været straffet. Private oplysninger slettes efter to-fem år.	FA12_Retssamfund
+Hvad sker der, hvis et barn under 15 år gør noget strafbart?	Børn under 15 kan ikke straffes. Myndighederne kan dog anbringe barnet uden for hjemmet eller pålægge aktiviteter.	FA12_Retssamfund
+Hvad hedder Danmarks parlament, og hvor arbejder det?	Folketinget – på Christiansborg i København.	FA13_Folketing_og_regering
+Hvor mange medlemmer har Folketinget?	179: 175 valgt i Danmark, to på Færøerne og to i Grønland.	FA13_Folketing_og_regering
+Hvilken magt udgør Folketinget sammen med regeringen?	Den lovgivende magt.	FA13_Folketing_og_regering
+Hvem bestemmer, hvem der skal danne regering efter et valg?	Folketinget.	FA13_Folketing_og_regering
+Hvad er Folketingets vigtigste opgaver ud over lovgivning?	At bestemme hvem der danner regering og at kontrollere regeringen (fx ved at kræve svar fra ministre).	FA13_Folketing_og_regering
+Hvad betyder det, at Danmark er et parlamentarisk demokrati?	At en regering ikke kan udnævnes, hvis et flertal i Folketinget er imod den. Folketinget bestemmer, hvem der har regeringsmagten.	FA13_Folketing_og_regering
+Hvad kan der ske, hvis en regering får flertallet imod sig i en vigtig sag (fx finansloven)?	Regeringen kan gå af eller udskrive valg.	FA13_Folketing_og_regering
+Har Danmark et overhus, der skal godkende Folketingets beslutninger?	Nej.	FA13_Folketing_og_regering
+Er Folketingets møder åbne for almindelige borgere?	Ja, møderne er normalt offentlige. Man kan også følge dem på tv og Folketingets hjemmeside.	FA13_Folketing_og_regering
+Hvornår er der spørgetid i Folketinget?	Hver onsdag – ministre svarer på spørgsmål fra folketingsmedlemmer.	FA13_Folketing_og_regering
+Hvor mange behandlinger skal et lovforslag have i Folketinget?	Tre behandlinger, før det kan vedtages.	FA13_Folketing_og_regering
+Hvad er Folketingets udvalg?	Faste udvalg, der nogenlunde svarer til ministerierne. De behandler lovforslag mellem de tre behandlinger og stiller spørgsmål til ministeren.	FA13_Folketing_og_regering
+Hvad arbejder Retsudvalget og Europaudvalget med?	Retsudvalget: politi, domstole og straf. Europaudvalget: Danmarks forhold til EU.	FA13_Folketing_og_regering
+Kan borgere og foreninger kontakte Folketingets udvalg og medlemmer?	Ja. De kan skrive, e-maile eller ringe og bede om et møde. Borgere kan også frit skrive til folketingsmedlemmer.	FA13_Folketing_og_regering
+Hvilken magt har regeringen ud over at være en del af den lovgivende magt?	Den udøvende magt – regeringen og myndighederne gennemfører og administrerer lovene via ministerierne.	FA13_Folketing_og_regering
+Hvem kommer med langt de fleste lovforslag?	Regeringen.	FA13_Folketing_og_regering
+Hvem leder regeringen, og hvor mange ministre er der normalt?	Statsministeren. Normalt ca. 20 ministre.	FA13_Folketing_og_regering
+Hvem bestemmer, hvem der skal være minister, og hvor mange der skal være?	Alene statsministeren.	FA13_Folketing_og_regering
+Skal ministre være medlem af Folketinget?	Som regel er de det, men de behøver ikke at være det.	FA13_Folketing_og_regering
+Hvem bestemmer, at ministerier lægges sammen eller oprettes?	Statsministeren (som regel efter et folketingsvalg).	FA13_Folketing_og_regering
+Hvem er ansvarlig for, hvad der foregår i et ministerium?	Den enkelte minister.	FA13_Folketing_og_regering
+Hvad er en koalitionsregering?	En regering, hvor flere partier sammen har regeringsmagten.	FA13_Folketing_og_regering
+Hvad er forskellen på en flertalsregering og en mindretalsregering?	Flertalsregering: regeringspartierne har sammen flertal i Folketinget. Mindretalsregering: de har ikke flertal og er afhængige af støtte fra andre partier.	FA13_Folketing_og_regering
+Hvad kaldes partier uden for regeringen, der støtter en mindretalsregering?	Støttepartier.	FA13_Folketing_og_regering
+Hvad er regeringspartier?	De politiske partier, der har ministre i regeringen.	FA13_Folketing_og_regering
+Hvilken type regering har de fleste danske regeringer siden 1945 været?	Mindretalsregeringer.	FA13_Folketing_og_regering
+Hvilke fire partier består den nuværende regering af?	Socialdemokratiet, SF, Moderaterne og Radikale Venstre.	FA13_Folketing_og_regering
+Hvad er et repræsentativt demokrati?	Folket vælger politikere til Folketinget, som tager sig af lovgivningen på folkets vegne.	FA13_Folketing_og_regering
+Hvor mange folkeafstemninger har der været siden grundloven af 1953, og hvor mange handlede om EU?	16 folkeafstemninger. Ni af dem handlede om Danmarks forhold til EU.	FA13_Folketing_og_regering
+Hvad hedder den folkevalgte forsamling i en kommune og i en region?	Kommune: kommunalbestyrelse. Region: regionsråd.	FA14_Lokalt_selvstyre
+Hvor ofte er der valg til kommunalbestyrelser og regionsråd?	Hvert fjerde år (2017, 2021, 2025 osv.) – på samme tid.	FA14_Lokalt_selvstyre
+Hvad er tanken med det lokale selvstyre?	At offentlige opgaver, der har med borgernes dagligdag at gøre, løses så tæt på borgerne som muligt.	FA14_Lokalt_selvstyre
+Hvor mange kommuner er der i Danmark?	98.	FA14_Lokalt_selvstyre
+Hvad kan man få hjælp til hos kommunens borgerservice?	Svar på spørgsmål og praktiske ting, fx flytning, pension, pas og kørekort.	FA14_Lokalt_selvstyre
+Hvilke opgaver har kommunerne ansvar for?	Vuggestuer, børnehaver, folkeskoler, hjælp til ældre og handicappede, beskæftigelse, integration, veje, affald, miljø, fritids- og kulturtilbud.	FA14_Lokalt_selvstyre
+Hvad kaldes formanden for kommunalbestyrelsen, og hvem vælger vedkommende?	Borgmesteren (i København: overborgmesteren). Vælges af den nyvalgte kommunalbestyrelse.	FA14_Lokalt_selvstyre
+Hvor mange medlemmer har en kommunalbestyrelse?	Typisk 19–31 (ned til 9 i de mindste kommuner, op til 55 i København). Altid et ulige antal.	FA14_Lokalt_selvstyre
+Har kommunerne ret til at udskrive skatter?	Ja. Staten giver også penge til kommunerne.	FA14_Lokalt_selvstyre
+Hvad hedder kommunernes interesseorganisation?	Kommunernes Landsforening (KL). Regeringen laver hvert år en økonomiaftale med KL.	FA14_Lokalt_selvstyre
+Hvor mange regioner er der i Danmark, og hvad hedder de?	Fem: Hovedstaden, Sjælland, Syddanmark, Midtjylland og Nordjylland.	FA14_Lokalt_selvstyre
+Hvad sker der med Region Hovedstaden og Region Sjælland den 1. januar 2027?	De lægges sammen til Region Østdanmark.	FA14_Lokalt_selvstyre
+Hvad har regionerne bl.a. ansvar for?	Sundhedsområdet – de driver de offentlige sygehuse.	FA14_Lokalt_selvstyre
+Har regionerne ret til at udskrive skatter?	Nej. De får deres penge direkte fra staten.	FA14_Lokalt_selvstyre
+Hvem leder en region, og hvad hedder regionernes interesseorganisation?	Et regionsråd med en regionsrådsformand (vælges af regionsrådet). Interesseorganisation: Danske Regioner.	FA14_Lokalt_selvstyre
+Hvilke fire valg afholdes der i Danmark?	Folketingsvalg, kommunalvalg, regionsrådsvalg og valg til Europa-Parlamentet.	FA15_Valg_og_partier
+Hvad er de fire politiske niveauer?	Lokalt: kommunalbestyrelsen. Regionalt: regionsrådet. Nationalt: Folketinget. EU: Europa-Parlamentet.	FA15_Valg_og_partier
+Hvornår holdes der folkeafstemninger?	Om helt konkrete ting, fx valgretsalderen eller når Danmark skal afgive suverænitet (fx EU-medlemskab).	FA15_Valg_og_partier
+Hvem udskriver folketingsvalg, og hvor ofte skal der mindst være valg?	Statsministeren. Der skal være valg mindst hvert fjerde år.	FA15_Valg_og_partier
+Hvilke tre krav skal man opfylde for at stemme til folketingsvalg?	Dansk statsborgerskab, fyldt 18 år og fast bopæl i Danmark, på Færøerne eller i Grønland.	FA15_Valg_og_partier
+Har man pligt til at stemme?	Nej. Men ca. 85 % stemmer normalt til folketingsvalg.	FA15_Valg_og_partier
+Hvor stor var valgdeltagelsen til kommunal- og regionsvalg i 2025, og til Europa-Parlamentsvalg i 2024?	Kommunal/region 2025: 69 %. Europa-Parlamentet 2024: 58 %.	FA15_Valg_og_partier
+Hvem må stemme til kommunal- og regionsvalg?	Fyldt 18 år – ikke krav om dansk statsborgerskab. Også statsborgere fra EU, Norge og Island med fast bopæl, og andre udlændinge der har boet fast i Danmark de sidste fire år før valgdagen.	FA15_Valg_og_partier
+Hvad betyder valgbar?	At man kan vælges. Opfylder man betingelserne for at stemme, er man normalt også valgbar.	FA15_Valg_og_partier
+Hvordan fordeler Folketingets 179 medlemmer sig?	175 valgt i Danmark + 2 fra Færøerne + 2 fra Grønland.	FA15_Valg_og_partier
+Hvor stor en andel af de valgte til Folketinget i 2026 er kvinder?	49 procent.	FA15_Valg_og_partier
+Hvor stor en andel af kommunalbestyrelsesmedlemmer og regionsrådsmedlemmer er kvinder?	Kommunalbestyrelser: ca. 36 %. Regionsråd: ca. 50 %.	FA15_Valg_og_partier
+Hvor mange medlemmer er der i hvert regionsråd?	41 (ifølge fakta-ark 15; fakta-ark 14 nævner 25–47).	FA15_Valg_og_partier
+Hvor ofte er der valg til Europa-Parlamentet, og hvor mange medlemmer vælger Danmark?	Hvert femte år (2019, 2024, 2029 …). Danmark vælger 15 medlemmer.	FA15_Valg_og_partier
+Hvem har valgret til Europa-Parlamentsvalget i Danmark?	Statsborgere i et EU-land, der er fyldt 18 år.	FA15_Valg_og_partier
+Hvad er et valgkort, og hvad skal man gøre, hvis man ikke har det med?	Bevis på stemmeret med oplysninger om hvor og hvornår man skal stemme. Uden valgkort skal man medbringe legitimation.	FA15_Valg_og_partier
+Hvad betyder hemmelig afstemning?	At ingen andre må se, hvad eller hvem man stemmer på.	FA15_Valg_og_partier
+Hvordan stemmer man på stemmesedlen?	Sæt kryds ved et parti eller en bestemt kandidat. Man kan også stemme blankt (intet kryds, ofte som protest).	FA15_Valg_og_partier
+Hvad er brevstemme?	At stemme inden valgdagen – kan gøres alle steder i landet og på danske repræsentationer i udlandet.	FA15_Valg_og_partier
+Hvad er et politisk parti?	En forening, der arbejder for et bestemt politisk program og opstiller kandidater til valg.	FA15_Valg_og_partier
+Hvad er en løsgænger?	En folketingspolitiker uden for partierne (fx efter at have meldt sig ud af sit parti). Politikeren skal ikke forlade Folketinget.	FA15_Valg_og_partier
+Hvilke partier fik flest stemmer ved folketingsvalget i 2026 (top tre)?	Socialdemokratiet, SF og Venstre.	FA15_Valg_og_partier
+Hvor mange danskere er medlem af et politisk parti, og hvordan finansieres partierne?	Ca. 106.000 medlemmer. Penge fra kontingent og fra staten i forhold til antal stemmer.	FA15_Valg_og_partier
+Hvad er en interesseorganisation?	En sammenslutning af personer eller virksomheder med fælles interesse (fx fagforening, patientforening, landmandsorganisation), der forsøger at påvirke politik.	FA15_Valg_og_partier
+Hvad er en græsrodsbevægelse?	Mindre formelt organiseret end en interesseorganisation – kraften kommer fra deltagernes aktivitet. Bruger fx underskriftsindsamling og demonstrationer.	FA15_Valg_og_partier
+Skal man have tilladelse til at demonstrere?	Nej – men man skal give politiet besked. Politiet kan kræve flytning og kun under helt særlige omstændigheder forbyde.	FA15_Valg_og_partier
+Hvad er den mest almindelige form for protest hos græsrodsbevægelser?	Indsamling af underskrifter.	FA15_Valg_og_partier
+Hvilke tre slags rettigheder har borgerne?	Politiske rettigheder, frihedsrettigheder og sociale rettigheder.	FA16_Rettigheder_og_pligter
+Hvad er politiske rettigheder?	Retten til at stemme og til at opstille som kandidat (Folketinget, kommunalbestyrelse).	FA16_Rettigheder_og_pligter
+Hvilke fire frihedsrettigheder nævnes?	Religionsfrihed, ytringsfrihed, forsamlingsfrihed og foreningsfrihed.	FA16_Rettigheder_og_pligter
+Hvad er sociale rettigheder?	Retten til ydelser og tilbud, hvis man har brug for hjælp – fx gratis lægehjælp eller økonomisk støtte.	FA16_Rettigheder_og_pligter
+Hvilke to pligter nævnes?	Skattepligt og værnepligt.	FA16_Rettigheder_og_pligter
+Hvad skal man betale skat af?	Løn, mange sociale ydelser, SU, renter i banken, gevinster ved salg af aktier – og i nogle tilfælde gaver.	FA16_Rettigheder_og_pligter
+Hvem har værnepligt?	Alle mænd og kvinder over 18 år med dansk statsborgerskab. Kvinder har først værnepligt fra 1. juli 2025.	FA16_Rettigheder_og_pligter
+"Hvad er ""Forsvarets Dag""?"	Alle bliver indkaldt til tests og helbredsundersøgelse. Cirka halvdelen erklæres egnede. Derefter trækker alle et lodnummer.	FA16_Rettigheder_og_pligter
+Hvor længe varer værnepligten?	Normalt 11 måneder i Forsvaret og ni måneder i Beredskabsstyrelsen.	FA16_Rettigheder_og_pligter
+Hvad kan man gøre, hvis man vil nægte at aftjene værnepligt i Forsvaret eller Beredskabsstyrelsen?	Søge militærnægterordningen og aftjene sin værnepligt fx i offentlige institutioner eller nødhjælpsorganisationer.	FA16_Rettigheder_og_pligter
+Hvor mange værnepligtige skal der være på sigt (besluttet 2024)?	7.500 (i 2024 var tallet 4.700).	FA16_Rettigheder_og_pligter
+Hvornår blev religionsfriheden stadfæstet i Danmark?	Med grundloven i 1849.	FA17_Religion_og_kirke
+Kan man skifte religion eller ikke have en religion?	Ja – man kan frit skifte religion og kan vælge slet ikke at have en.	FA17_Religion_og_kirke
+Hvilken kirke er den danske folkekirke ifølge grundloven?	Den evangelisk-lutherske kirke (protestantisk).	FA17_Religion_og_kirke
+Hvornår brød Danmark med den katolske kirke?	Ved reformationen i 1536.	FA17_Religion_og_kirke
+Er stat og kirke adskilt i Danmark?	Nej. Staten understøtter folkekirken økonomisk – men kirken har ingen politisk magt.	FA17_Religion_og_kirke
+Hvor stor en andel er medlem af folkekirken (2026)?	Ca. 70 procent.	FA17_Religion_og_kirke
+Hvad bruger mange danskere folkekirken til?	Dåb, konfirmation, bryllup og begravelse – og en del går i kirke juleaften den 24. december.	FA17_Religion_og_kirke
+Hvad er kirkeskat, og hvem betaler den?	Betales af medlemmer af folkekirken til vedligeholdelse af kirker og kirkegårde. Ikke-medlemmer betaler den ikke.	FA17_Religion_og_kirke
+Hvordan bliver man medlem af folkekirken?	Kun ved at blive døbt. Man kan frit melde sig ud.	FA17_Religion_og_kirke
+Kan man blive gift i folkekirken, hvis man ikke er medlem?	Ja, hvis den man skal giftes med er medlem.	FA17_Religion_og_kirke
+Hvem kan blive begravet på en dansk kirkegård?	Alle – også ikke-medlemmer af folkekirken. Begravelsen kan være kirkelig eller borgerlig.	FA17_Religion_og_kirke
+Hvilke opgaver har folkekirken ud over gudstjenester?	Registrering af fødsler, navngivning og dødsfald.	FA17_Religion_og_kirke
+Hvad får et anerkendt trossamfund af fordele?	Medlemmerne kan (med begrænsninger) trække bidrag fra i skat, og præsten kan få bemyndigelse til vielser, der er borgerligt gyldige.	FA17_Religion_og_kirke
+Hvor mange anerkendte trossamfund og menigheder er der i Danmark?	435 – de fleste er kristne.	FA17_Religion_og_kirke
+Hvor mange lande er med i EU, og hvor ligger hovedkvarteret?	27 lande. Hovedkvarter i Bruxelles, Belgien.	FA18_Omverdenen
+Hvor mange EU-lande har euroen, og har Danmark den?	21 af 27. Danmark har beholdt kronen.	FA18_Omverdenen
+Hvornår blev Danmark medlem af EU (dengang EF)?	1973 – efter en folkeafstemning.	FA18_Omverdenen
+Hvad skete der ved folkeafstemningen i 1992?	Danskerne stemte nej til Maastricht-traktaten. Danmark forhandlede derefter de danske forbehold.	FA18_Omverdenen
+Hvad er de danske forbehold?	Områder hvor Danmark ikke deltager i EU-samarbejdet – bl.a. euroen og det retlige samarbejde (politi, strafferet, asyl, indvandring, skilsmisser, forældremyndighed).	FA18_Omverdenen
+Hvordan kan et forbehold afskaffes?	Efter en ny folkeafstemning i Danmark.	FA18_Omverdenen
+Hvornår blev forsvarsforbeholdet ophævet, og med hvilket flertal?	1. juni 2022 – 67 % stemte ja, 33 % nej.	FA18_Omverdenen
+Hvad er Det Europæiske Råd?	EU-topmøder, hvor stats- og regeringschefer (for Danmark statsministeren) vedtager EU's overordnede politiske retningslinjer.	FA18_Omverdenen
+Hvem deltager i Ministerrådet?	Ministre fra medlemslandenes regeringer for det pågældende område (fx miljøministre til miljømøder).	FA18_Omverdenen
+Hvad er Europa-Kommissionen, og hvor mange kommissærer har hvert land?	Hvert EU-land har én kommissær, som leder et politisk område. Kommissærerne skal arbejde uafhængigt af deres hjemland. Danmarks kommissær er Dan Jørgensen.	FA18_Omverdenen
+Hvad er EU-Domstolens rolle?	Tolke EU's traktat og tage stilling i retssager om EU's regler.	FA18_Omverdenen
+Hvor mange medlemmer har Europa-Parlamentet, og hvor mange er valgt i Danmark?	720 medlemmer, heraf 15 fra Danmark.	FA18_Omverdenen
+Hvor ofte skifter formandskabet for Ministerrådet, og hvornår var Danmark sidst formand?	Hver sjette måned. Sidste danske EU-formandskab var i 2025.	FA18_Omverdenen
+Hvad er Europarådet?	En selvstændig organisation med 47 europæiske lande. Danmark har været medlem siden 1949.	FA18_Omverdenen
+Hvad er Den Europæiske Menneskerettighedskonvention?	Vedtaget af Europarådet – indeholder grundlæggende rettigheder som ytringsfrihed, forsamlingsfrihed, forbud mod tortur og ret til retfærdig rettergang.	FA18_Omverdenen
+Hvornår blev FN grundlagt, og hvor mange medlemmer har det?	1945 – 193 stater. Danmark har været medlem fra begyndelsen.	FA18_Omverdenen
+Hvad er FN's formål?	At skabe fred og udvikling i verden, hjælpe ved katastrofer og fremme menneskerettigheder.	FA18_Omverdenen
+Hvilke lande har en fast plads i FN's sikkerhedsråd?	Frankrig, Kina, Rusland, Storbritannien og USA. De ti øvrige medlemmer vælges for to år ad gangen.	FA18_Omverdenen
+Hvornår er Danmark medlem af FN's sikkerhedsråd?	2025–26 (tidligere 1967–68, 1985–86 og 2005–06).	FA18_Omverdenen
+Hvad kan FN's sikkerhedsråd gøre over for et land, der angriber andre eller undertrykker befolkningsgrupper?	Indføre økonomiske eller militære sanktioner – og bruge militær magt, hvis landet ses som trussel mod international sikkerhed.	FA18_Omverdenen
+Hvor mange verdensmål har FN, og hvornår blev de vedtaget?	17 verdensmål for bæredygtig udvikling – vedtaget i september 2015 i New York. De gælder alle lande.	FA18_Omverdenen
+Hvilke lande og områder omfatter Norden?	Danmark, Norge, Sverige, Finland, Island samt Færøerne, Grønland og Ålandsøerne.	FA18_Omverdenen
+Hvad hedder de nordiske samarbejdsorganer?	Nordisk Råd og Nordisk Ministerråd.	FA18_Omverdenen
+Hvor stor er Danmarks udviklingsbistand i 2026?	Ca. 23 mia. kr. – 0,7 % af bruttonationalindkomsten (BNI).	FA18_Omverdenen
+Hvilken verdensdel modtager størstedelen af dansk udviklingsbistand?	Afrika.	FA18_Omverdenen
+Hvad er Færøerne og Grønlands forhold til Danmark?	De er med i det danske rigsfællesskab, har egen styreordning (hjemmestyre/selvstyre) og egne forsamlinger. Færinger og grønlændere er danske statsborgere og vælger hver to medlemmer til Folketinget.	FA19_Geografi_og_befolkning
+Hvilke lande grænser op til eller ligger tæt på Danmark?	Norge (nord), Sverige (nordøst), Tyskland og Polen (syd).	FA19_Geografi_og_befolkning
+Hvor stort er Danmark (uden Grønland og Færøerne)?	Lidt mere end 43.000 km².	FA19_Geografi_og_befolkning
+Hvad består Danmark af, og hvad er den største ø?	Halvøen Jylland og over 400 øer. Største ø: Sjælland.	FA19_Geografi_og_befolkning
+Hvor lang er Danmarks kystlinje?	Omkring 7.300 km.	FA19_Geografi_og_befolkning
+Hvad kaldes Nordsøen i Danmark, og hvorfor?	Vesterhavet – fordi det ligger vest for Danmark.	FA19_Geografi_og_befolkning
+Hvilke farvande ligger mellem Jylland og Fyn, Fyn og Sjælland, og Sjælland og Sverige?	Jylland–Fyn: Lillebælt. Fyn–Sjælland: Storebælt. Sjælland–Sverige: Øresund.	FA19_Geografi_og_befolkning
+Hvilke farvande ligger nord for Danmark og nord for Sjælland og Fyn?	Skagerrak (nord for Danmark) og Kattegat (nord for Sjælland og Fyn).	FA19_Geografi_og_befolkning
+Hvilke tre broforbindelser forbinder landsdelene?	Lillebæltsbroerne (Jylland–Fyn), Storebæltsforbindelsen (Fyn–Sjælland) og Øresundsforbindelsen (Danmark–Sverige).	FA19_Geografi_og_befolkning
+Hvad er Danmarks nordligste punkt?	Grenen, nordøst for Skagen – hvor Skagerrak og Kattegat mødes.	FA19_Geografi_og_befolkning
+Hvad er Danmarks sydligste punkt?	Gedser Odde på Falster (ved Østersøen).	FA19_Geografi_og_befolkning
+Hvad er Danmarks vestligste punkt?	Blåvands Huk i Vestjylland.	FA19_Geografi_og_befolkning
+Hvad er Danmarks østligste punkt?	Ertholmene, øst for Bornholm.	FA19_Geografi_og_befolkning
+Hvad hedder Danmarks højeste naturlige punkt, og hvor høj er det?	Møllehøj i Østjylland – ca. 170 meter.	FA19_Geografi_og_befolkning
+Hvor findes klipper i Danmark?	På Bornholm (et af de få steder).	FA19_Geografi_og_befolkning
+Hvor mange bor der i Danmark, og hvor mange er indvandrere eller efterkommere?	Ca. seks millioner. Cirka én million (17 %) er indvandrere eller efterkommere.	FA19_Geografi_og_befolkning
+Hvor mange bor i hovedstadsområdet?	Ca. to millioner (ca. en tredjedel af befolkningen).	FA19_Geografi_og_befolkning
+Hvad er Danmarks fem største byer (størst først)?	København, Aarhus (ca. 300.000), Odense (ca. 200.000), Aalborg (ca. 125.000), Esbjerg (ca. 75.000).	FA19_Geografi_og_befolkning
+Hvornår kom de første mennesker til Danmark, og hvordan levede de?	Omkring 12.500 f.Kr. – af jagt og fiskeri.	FA20_Historie_før_1945
+Hvornår begyndte man at dyrke jorden og holde husdyr?	Omkring 4.000 f.Kr.	FA20_Historie_før_1945
+Hvornår opstod de første rigtige byer, og hvilken by nævnes?	Fra omkring 700 e.Kr. – fx Ribe.	FA20_Historie_før_1945
+Hvornår var vikingetiden?	Ca. 750–1050.	FA20_Historie_før_1945
+Hvad hedder den nordiske religion fra vikingetiden, og hvem var gudernes konge?	Asatro. Gudernes konge hed Odin.	FA20_Historie_før_1945
+Hvem var Freja og Thor i asatroen?	Freja: gudinde for frugtbarhed. Thor: tordenguden/krigsguden.	FA20_Historie_før_1945
+Hvem rejste Jellingestenen, og hvad kaldes den?	"Harald Blåtand (død 987). ""Danmarks dåbsattest"" – den fortæller, at han samlede Danmark og gjorde danskerne kristne."	FA20_Historie_før_1945
+Hvornår blev Harald Blåtand døbt?	Omkring 965.	FA20_Historie_før_1945
+Nævn vikingeborge og byer fra vikingetiden.	Borge: Trelleborg og Fyrkat. Byer: Odense, Aalborg og Aarhus.	FA20_Historie_før_1945
+Hvem erobrede England i 1013, og hvem var den mest betydningsfulde danske konge i England?	Svend Tveskæg (1013). Knud den Store (regerede 1018–1035).	FA20_Historie_før_1945
+Hvornår havde England danske konger?	Cirka 30 år frem mod 1042.	FA20_Historie_før_1945
+Hvad skete med kong Knud den Hellige i 1086?	Han blev slået ihjel af stormændene.	FA20_Historie_før_1945
+Hvilken kirke var den danske kirke en del af i de første 500–600 år?	Den romersk-katolske kirke.	FA20_Historie_før_1945
+Hvor mange kirker var der omkring 1250 i Danmark?	Op mod 3.000.	FA20_Historie_før_1945
+Hvilke fire stænder var der i middelalderen?	Gejstligheden, adelen, borgerne og bønderne.	FA20_Historie_før_1945
+Hvornår kom pesten til Danmark, og hvor mange døde?	Omkring 1350 – cirka en tredjedel af befolkningen.	FA20_Historie_før_1945
+Hvad var Kalmarunionen, og hvem var Margrete 1.?	Union mellem Danmark, Norge og Sverige fra 1397 til 1523. Margrete 1. havde magten i de tre riger til sin død i 1412.	FA20_Historie_før_1945
+Hvornår var Danmark og Norge i union?	Helt frem til 1814.	FA20_Historie_før_1945
+Hvad var reformationen i 1536?	Den danske kirke brød med den katolske kirke og paven. Protestantismen blev indført, kongen blev kirkens overhoved, Biblen blev oversat til dansk (første 1550), og kongen overtog ca. en tredjedel af landets dyrkede areal.	FA20_Historie_før_1945
+Hvem var Christian 4., og hvilke bygninger er kendt fra hans tid?	Konge 1588–1648. Børsen, Rundetårn og Rosenborg i København.	FA20_Historie_før_1945
+Hvilke landsdele tabte Danmark til Sverige i 1658?	Skåne, Halland og Blekinge.	FA20_Historie_før_1945
+Hvornår blev Danmark et arveligt monarki og enevældigt?	Arveligt monarki i 1660, enevælde i 1661. Før da var det et valgkongedømme (kongen blev valgt af adelen).	FA20_Historie_før_1945
+Hvornår varede enevælden?	1660/61 til 1848.	FA20_Historie_før_1945
+Hvad var stavnsbåndet, og hvornår blev det afskaffet?	Det tvang de fleste bønder til at arbejde for en bestemt godsejer og bo et bestemt sted. Afskaffet i 1788 (landboreformerne).	FA20_Historie_før_1945
+Hvad betød landboreformerne for bønderne?	De kunne selv bestemme, hvor de ville bo og arbejde, og eje deres egen jord – nye selvstændige gårdmænd. Mange gårde blev flyttet ud på marken.	FA20_Historie_før_1945
+Hvad gjorde Frederik 7. i 1848?	Afgav sin enevældige magt og blev konstitutionel konge.	FA20_Historie_før_1945
+Hvornår blev grundloven underskrevet, og hvad betød den?	5. juni 1849. To lovgivende forsamlinger: Folketinget og Landstinget (sammen: Rigsdagen).	FA20_Historie_før_1945
+Hvem kunne ikke stemme efter grundloven af 1849?	Kvinder, fattige og mænd under 30 år. Det ændrede sig med grundlovsændringen i 1915.	FA20_Historie_før_1945
+Hvad skete i 1864?	Krig mellem Det Tyske Forbund og Danmark – Danmark mistede hertugdømmerne Slesvig og Holsten og blev meget mindre.	FA20_Historie_før_1945
+Hvad gjorde man for at skabe vækst efter 1864?	Opdyrkede den jyske hede, og landmændene gik over til at avle dyr (smør, flæsk, æg) i stedet for kun korn.	FA20_Historie_før_1945
+Hvornår blev Venstre, Højre/Konservative, Radikale og Socialdemokratiet dannet?	Venstre: 1870. Højre blev til Det Konservative Folkeparti i 1915–16. Det Radikale Venstre: 1905. Socialdemokratiet: 1870'erne.	FA20_Historie_før_1945
+Hvem stemte på Venstre og Højre?	Venstre: de fleste bønder. Højre: godsejere, velstillede i byerne, politi, hær og embedsmænd.	FA20_Historie_før_1945
+Hvilken betydning havde jernbaner (fra 1840'erne) og industrialisering (efter 1870)?	Hurtigere transport – og fabrikker i byerne, hvor fattige landarbejdere flyttede hen. Arbejderklassen opstod.	FA20_Historie_før_1945
+Var Danmark neutralt under 1. Verdenskrig?	Ja (1914–1918).	FA20_Historie_før_1945
+Hvornår blev Danmark besat under 2. Verdenskrig?	9. april 1940 af tyske tropper.	FA20_Historie_før_1945
+Hvornår brød samarbejdet med tyskerne sammen?	August 1943 – regeringen indgav sin afskedsbegæring, og hæren blev opløst.	FA20_Historie_før_1945
+Hvornår blev Danmark befriet?	5. maj 1945 – af britiske tropper.	FA20_Historie_før_1945
+Hvornår blev Danmark medlem af NATO?	1949 – Danmark opgav sin neutralitetspolitik.	FA21_Historie_efter_1945
+Hvad var Den Kolde Krig?	En kamp mellem supermagterne USA og Sovjetunionen (NATO mod Warszawa-pagten) om militær styrke og ideologi: liberal markedsøkonomi mod kommunistisk planøkonomi.	FA21_Historie_efter_1945
+Hvad var Marshall-planen?	USA gav 1948–1951 store pengebeløb til Vesteuropa (bl.a. Danmark) til genopbygning og for at forhindre kommunismens udbredelse.	FA21_Historie_efter_1945
+Hvornår blev SF dannet?	1958–59 – af medlemmer, der meldte sig ud af Danmarks Kommunistiske Parti.	FA21_Historie_efter_1945
+Hvad betød Marshall-hjælpen for landbruget?	Modernisering med traktorer og mejetærskere. Mange flyttede fra land til by i 1950'erne.	FA21_Historie_efter_1945
+Hvornår blev velfærdsstaten udbygget?	Især i 1960'erne og 1970'erne (folkepension, vuggestuer, børnehaver, plejehjem, flere uddannelser).	FA21_Historie_efter_1945
+Hvad kaldes perioden 1957–1973?	"""De glade 60'ere"" – stor økonomisk fremgang, høj vækst og arbejde til næsten alle."	FA21_Historie_efter_1945
+Hvorfra kom udenlandsk arbejdskraft i 1960'erne?	De fleste fra Tyrkiet, ex-Jugoslavien og Pakistan.	FA21_Historie_efter_1945
+Hvad var ungdomsoprøret?	Fra slutningen af 1960'erne gjorde unge oprør mod gammeldags normer – nye familieformer, samliv uden ægteskab, kollektiver.	FA21_Historie_efter_1945
+Hvornår blev fri abort indført, og hvad er grænsen i dag?	1973 (frem til 12. uge). I 2025 hævet til 18. uge.	FA21_Historie_efter_1945
+Hvornår blev p-pillen introduceret i Danmark?	1966.	FA21_Historie_efter_1945
+Hvornår blev det forbudt at slå børn i skolen, og hvornår for forældre?	I skolen: 1967. For forældre: 1997.	FA21_Historie_efter_1945
+Hvornår blev loven om ligeløn vedtaget?	1976.	FA21_Historie_efter_1945
+Hvor stort et flertal stemte ja til EF-medlemskab i 1973?	63,4 procent.	FA21_Historie_efter_1945
+Hvorfor ramte en økonomisk krise Danmark i 1970'erne?	Fordi oliepriserne steg kraftigt i 1973 og 1979 (Danmark producerede dengang kun lidt olie).	FA21_Historie_efter_1945
+Hvornår fik Danmark en borgerlig regering efter lang tid med Socialdemokratiet?	1982 – den sad i over ti år (til 1993).	FA21_Historie_efter_1945
+Hvad besluttede Folketinget i 1985 om atomkraft?	At der ikke skulle bygges atomkraftværker i Danmark.	FA21_Historie_efter_1945
+Hvilke tidligere statsministre nævnes (med perioder)?	Poul Nyrup Rasmussen (1993–2001), Anders Fogh Rasmussen (2001–09), Lars Løkke Rasmussen (2009–11 og 2015–19), Helle Thorning-Schmidt (2011–15).	FA21_Historie_efter_1945
+Hvornår kom Dansk Folkeparti første gang i Folketinget?	1998 – efter debat om udlændinge- og integrationspolitik.	FA21_Historie_efter_1945
+Hvilke stramninger blev gennemført i udlændingepolitikken?	Sværere familiesammenføring, lavere kontanthjælp til nytilkomne uden arbejde og skrappere krav til dansk statsborgerskab (længere ophold, arbejde, ingen alvorlig kriminalitet, sprog og viden om samfundet).	FA21_Historie_efter_1945
+Hvor mange år var Socialdemokratiet i regering mellem 1929 og 1982?	I alt 41 år.	FA21_Historie_efter_1945
+Hvor mange år har der siden 1982 været henholdsvis socialdemokratisk og borgerlig statsminister (iflg. materialet)?	17 år med en socialdemokratisk statsminister og 24 år med en borgerlig.	FA21_Historie_efter_1945
+Hvilken økonomisk krise ramte Danmark i 2008?	Den internationale finanskrise – produktionen faldt 5 % i 2008–09, den største tilbagegang siden 2. Verdenskrig.	FA21_Historie_efter_1945
+Hvad er en stor udfordring for Danmark og Europa i forhold til alderssammensætningen?	Der bliver flere ældre i forhold til dem i den arbejdsdygtige alder (15–64 år), fordi vi lever længere og får færre børn.	FA21_Historie_efter_1945
+Hvad er middellevetiden i 2024–25 for kvinder og mænd?	Kvinder 83,9 år (mod 76,6 i 1973–74). Mænd 80,3 år (mod 70,8 i 1973–74).	FA21_Historie_efter_1945
+Hvad er fødselstallet (børn pr. kvinde) i 2025 og i 1973?	1,5 i 2025 og 1,9 i 1973.	FA21_Historie_efter_1945
+Hvilke reformer er lavet for at få flere ud på arbejdsmarkedet?	Højere pensionsalder, kortere dagpengeperiode og lavere skat på arbejdsindkomst.	FA21_Historie_efter_1945
+Hvornår kom coronavirus til Danmark, og hvornår blev den første dansker vaccineret?	Første tilfælde i februar 2020. Første vaccination i december 2020. Cirka 90 % er vaccineret.	FA21_Historie_efter_1945
+"Hvem er kaldt ""dansk litteraturs far"", og hvad skrev han?"	"Ludvig Holberg (1684–1754): komedien ""Jeppe på Bjerget"", ""Epistler"" og romanen ""Niels Klims underjordiske rejse"" (1741)."	FA22_Kultur
+Hvem var H.C. Andersen?	"Forfatter (1805–1875), født i Odense. Verdensberømt for eventyr (oversat til ca. 125 sprog), fx ""Grantræet"" og ""Den Grimme Ælling""."	FA22_Kultur
+Hvem var P.S. Krøyer?	"Kunstmaler (1851–1909), født i Stavanger. Malede i Skagen i 1880'erne–90'erne, fx ""Hip, hip, hurra!"" (1888). Værker på Skagens Museum."	FA22_Kultur
+Hvem var Søren Kierkegaard?	"Dansk filosof (1813–1855). Menneskets ret og pligt til at vælge – bogen ""Enten-eller"" (1843)."	FA22_Kultur
+Hvem var Carl Nielsen?	"Komponist (1865–1931). Symfonien ""Det uudslukkelige"" (1916) og melodier til sange som ""Jens Vejmand"" og ""Solen er så rød, mor""."	FA22_Kultur
+Hvem var Karen Blixen, og hvad skrev hun?	"Forfatter (1885–1962). Ejede kaffefarm i Kenya – ""Den afrikanske farm"" (1937). Også ""Syv fantastiske fortællinger"" (1935)."	FA22_Kultur
+Hvem var Tove Ditlevsen?	"Forfatter (1917–76), opvokset i fattig familie på Vesterbro. ""Barndommens Gade"" (1943), ""Barndom"" og ""Ungdom"" (1967), ""Gift"" (1971)."	FA22_Kultur
+Hvem var Arne Jacobsen?	"Arkitekt (1902–1971), kendt for funktionalisme. Møblerne ""7-eren"" og ""Ægget"". Tegnede Nationalbanken i København."	FA22_Kultur
+Hvilke film har Thomas Vinterberg lavet?	"""Festen"" (1998), ""Jagten"" (2012), ""Kollektivet"" (2016) og ""Druk"" (2020, Oscar i 2021)."	FA22_Kultur
+Hvilken film vandt Susanne Bier en Oscar for?	"""Hævnen"" (2010)."	FA22_Kultur
+Hvornår har Danmark vundet Eurovision Song Contest, og med hvem?	"1963: Grethe og Jørgen Ingmann (""Dansevise""). 2000: Brødrene Olsen. 2013: Emmelie de Forest (""Only Teardrops"")."	FA22_Kultur
+"Hvilken gruppe er kendt for ""Barbie Girl""?"	Aqua (dansk-norsk) – solgte 28 mio. cd'er.	FA22_Kultur
+"Hvem er Olafur Eliasson, og hvad er ""Your rainbow panorama""?"	Dansk-islandsk kunstner (født 1967). En 150 m lang cirkelformet glasgangbro oven på ARoS i Aarhus (2011).	FA22_Kultur
+Hvem var Yahya Hassan?	"Forfatter (1995–2020). Debuterede 2013 med digtsamlingen ""Yahya Hassan"" – den mest solgte i Danmark (over 100.000). Skabte debat om unge indvandrere i ghettokvarterer."	FA22_Kultur
+Hvad er fastelavn?	Karneval – børn klæder sig ud og slår katten af tønden. Den der slår sidste bræt af, bliver kattekonge. Syv uger før påske.	FA23_Traditioner
+Hvad markerer påsken?	At Jesus blev korsfæstet og døde og opstod fra de døde.	FA23_Traditioner
+Hvilke dage er påskedagene?	Palmesøndag, skærtorsdag, langfredag, påskedag og 2. påskedag. Påsken ligger i marts eller april (ikke på faste datoer).	FA23_Traditioner
+Hvad drikker man ofte til påskefrokost?	Påskebryg (en særlig øl). Man giver også påskeæg.	FA23_Traditioner
+Hvornår holdes pinse, og hvad mindes?	Syv uger efter påske (maj/juni). Til minde om at Helligånden kom ned til jorden. Pinsedag og 2. pinsedag er helligdage.	FA23_Traditioner
+Hvad fejres 1. maj?	Arbejdernes internationale demonstrations- og festdag (siden 1889).	FA23_Traditioner
+Hvad fejres 5. maj?	Danmarks befrielse i 1945 – mange sætter stearinlys i vinduerne.	FA23_Traditioner
+Hvad fejres 5. juni (grundlovsdag)?	Grundloven af 1849. Grundlovsmøder med taler om demokrati. Ikke officiel fridag, men mange kontorer og butikker lukker.	FA23_Traditioner
+Hvad sker sankthansaften (23. juni)?	Man tænder bål – markerer midsommer. Blanding af hedensk tradition og kristendom.	FA23_Traditioner
+Hvilke dage har man fri i julen?	24., 25. og 26. december (juleaften, juledag og 2. juledag).	FA23_Traditioner
+Hvad sker juleaften?	Julegudstjeneste, juletræ, julemiddag, dans om juletræet, julesalmer og julegaver.	FA23_Traditioner
+Hvad er en julefrokost?	En frokost i december (og juledag/2. juledag) med meget mad og øl og snaps.	FA23_Traditioner
+Hvordan fejres nytår?	31. december med fest og fyrværkeri. Kongens nytårstale kl. 18. Statsministerens nytårstale 1. januar.	FA23_Traditioner
+Hvad er Ramadan og Eid al-Fitr?	Ramadan: muslimernes fastemåned (til minde om Muhammads første åbenbaring). Eid al-Fitr: festen når Ramadan er slut.	FA23_Traditioner
+Hvad mindes man i jødisk påske og jødisk pinse?	Påske: jødernes udvandring fra Ægypten (lam og usyret brød). Pinse: pagtslutningen på Sinai's bjerg (Moses og de ti bud).	FA23_Traditioner
+Hvad er kinesisk nytår?	Kinesisk helligdag – starter første dag i første måned og slutter med lanternefestival på 15. dag.	FA23_Traditioner
+Hvilke andre mærkedage nævnes?	Halloween (amerikansk – udklædning) og karneval efter sydamerikansk forbillede (sambamusik, optog).	FA23_Traditioner
+Hvornår blev Danmark medlem af FN og NATO?	FN: 1945. NATO: 1949.	FA24_Forsvar
+Hvad gjorde Danmark fra 2. Verdenskrig til ca. 1990?	Deltog i mange af FN's fredsbevarende missioner.	FA24_Forsvar
+"Hvad er ""aktivistisk udenrigspolitik""?"	Efter Den Kolde Krig (ca. 1990) deltog Danmark mere aktivt i internationale konflikter – ikke kun fredsbevarende missioner.	FA24_Forsvar
+Hvad skete i Golfkrigen 1990–91?	Irak besatte Kuwait. USA ledte en militær aktion med FN-beslutning. Danmark sendte et skib, der ikke deltog i kampe.	FA24_Forsvar
+Hvor kom danske soldater i kamp i 1990'erne?	Bosnien (1994, som del af FN's styrker). Kosovo 1999: danske jagerfly deltog i NATO's aktion.	FA24_Forsvar
+Hvad skete den 11. september 2001?	Terrorangreb på USA – ca. 3.000 dræbt. Gav NATO nyt fokus på at bekæmpe terror.	FA24_Forsvar
+Hvorfor invaderede NATO-ledede styrker Afghanistan i oktober 2001?	Al Qaeda stod bag 11. september og havde base der. Taliban-regeringen blev afsat.	FA24_Forsvar
+Hvor var de danske soldater i Afghanistan, og hvor mange faldt?	Helmand-provinsen. 44 danske soldater mistede livet. Taliban overtog magten igen i 2021.	FA24_Forsvar
+Hvorfor førte USA krig mod Irak i 2003?	Irak samarbejdede ikke om nedrustning, og USA mente Irak havde masseødelæggelsesvåben. Der blev aldrig fundet nogen. Saddam Hussein blev fjernet.	FA24_Forsvar
+Hvad deltog Danmark i i 2011 og 2014?	2011: FN-mandateret aktion i Libyen mod Gaddafi (fly, bombardementer). 2014: USA-ledet mission mod Islamisk Stat i Irak og Syrien (fly og træning).	FA24_Forsvar
+Hvad har Ruslands handlinger i 2014 og 2022 betydet for NATO?	Besættelse af Krim (2014) og krigen i Ukraine (siden 2022) – NATO er vendt tilbage til at forsvare sit eget territorium.	FA24_Forsvar
+Hvad er besluttet om forsvar og værnepligt i 2024?	Flere penge til forsvaret frem mod 2030, flere soldater – og værnepligten forlænges fra fire til 11 måneder.	FA24_Forsvar
+Hvorfor var Grønland vigtigt under Den Kolde Krig?	Det ligger mellem USA og Sovjetunionen – korteste flyrute og raketvej går over Grønland.	FA24_Forsvar
+Hvad aftalte Danmark og USA i 1951 om Grønland?	En aftale om USA's militære aktiviteter. USA byggede luftbasen ved Qaanaaq (Thule) – nu Pituffik Space Base.	FA24_Forsvar
+Hvorfor er Arktis i fokus?	Isen smelter – nye muligheder for olie, gas, mineraler og kortere skibsruter. USA, Rusland og Kina er interesserede.	FA24_Forsvar
+Hvad har Danmark besluttet i 2025 om Grønland?	At styrke forsvaret omkring Grønland med arktiske skibe og droner. Donald Trumps ønske om at Grønland bliver en del af USA er afvist af den grønlandske og danske regering.	FA24_Forsvar
+Hvad er diskrimination?	At gøre forskel på mennesker og behandle dem dårligere pga. fx religion, politisk holdning, hudfarve, køn, etnicitet, seksuel orientering eller alder.	FA25_Diskrimination_og_ekstremisme
+Hvad er ulovligt at sige eller skrive offentligt?	Noget der håner eller truer andre pga. race, hudfarve, religion eller seksuel orientering – samt at støtte eller opfordre til forbrydelser (fx vold) eller udtrykke støtte til et terrorangreb.	FA25_Diskrimination_og_ekstremisme
+Hvad er en hadforbrydelse?	En forbrydelse mod fx en minoritet begået pga. ofrets etniske oprindelse, religion, seksuelle orientering osv. Kan straffes særligt hårdt.	FA25_Diskrimination_og_ekstremisme
+Hvor mange hadforbrydelser registrerede politiet i 2022–24?	2.108 sager (ca. 702 om året – cirka to om dagen).	FA25_Diskrimination_og_ekstremisme
+Hvad var de hyppigste årsager til hadforbrydelser 2022–24?	Race/etnicitet 48 %, religion 36 %, seksuel orientering 21 %.	FA25_Diskrimination_og_ekstremisme
+"Hvad betyder ""frihed skal bruges under ansvar""?"	Staten kan begrænse friheden, så den ikke bruges til at skade andre – fx til at diskriminere.	FA25_Diskrimination_og_ekstremisme
+Hvor mange hadforbrydelser blev rettet mod jøder 2022–24?	430 – selvom der kun bor 6–8.000 jøder i Danmark. Næsten hver tredje religiøst motiverede og hver femte af alle hadforbrydelser.	FA25_Diskrimination_og_ekstremisme
+Hvad skete i Randers i 2019 og ved synagogen i København i 2015?	Randers: over 80 gravsten på jødisk gravplads væltet af nynazister (9. november – Krystalnatten). 2015: terrorangreb ved synagogen, en jødisk vagt dræbt; samme dag blev en filminstruktør dræbt ved Krudttønden.	FA25_Diskrimination_og_ekstremisme
+Hvad skete i 2003 i Folketinget?	To mænd angreb statsminister Anders Fogh Rasmussen og udenrigsminister Per Stig Møller med maling (protest mod Irakkrigen). Dømt til tre og fire måneders fængsel – særligt alvorligt at angribe folkestyrets repræsentanter.	FA25_Diskrimination_og_ekstremisme
+Hvem beskytter truede politikere?	Politiets Efterretningstjeneste (PET) – med livvagter.	FA25_Diskrimination_og_ekstremisme
+Hvad er drivhuseffekten?	Drivhusgasser (fx CO2) lukker solens stråler ind, men begrænser at varmen slipper ud – temperaturen stiger (global opvarmning).	FA26_Klima
+Hvad har ført til store CO2-udledninger?	Afbrænding af fossile brændsler (kul, olie, gas) i produktion og transport.	FA26_Klima
+Hvor meget er temperaturen steget siden 1850–1900?	Mere end én grad. FN forudser 1,4–4,4 grader varmere ved århundredets slutning.	FA26_Klima
+Hvad er Paris-aftalen?	Aftale fra 2015, hvor næsten alle lande lover at reducere udledning af drivhusgasser.	FA26_Klima
+Hvor meget er Danmarks udledning faldet 1990–2024?	Cirka 53 procent.	FA26_Klima
+Hvad er Klimarådet?	Oprettet 2014. Rådgiver og vurderer regeringens klimapolitik.	FA26_Klima
+Hvad står der i klimaloven fra 2019?	Reducer udledning med 70 % inden 2030 (ift. 1990) og klimaneutral senest i 2050.	FA26_Klima
+Hvad betyder klimaneutral?	At man ikke udleder flere drivhusgasser, end man optager.	FA26_Klima
+Hvad er grøn omstilling?	"At stoppe med ""sorte"" energikilder (olie og gas) og bruge vedvarende, grønne kilder (sol, vind, vandkraft)."	FA26_Klima
+Hvad er Vindeby?	Verdens første havvindmøllepark (1991), ud for Lolland. Danmark har haft vindmøller på land siden 1970'erne.	FA26_Klima
+Hvor stor en andel af Danmarks elforbrug dækkede vindmøller i 2025?	52 procent.	FA26_Klima
+Hvor stor en andel af energiforbruget dækkede vedvarende energi i 2025 vs. 1990?	50 procent i 2025 mod 6 procent i 1990.	FA26_Klima
+Hvad er energiøerne, og hvor skal de ligge?	To øer til at opsamle og omdanne energi fra havvindmøller. Én ved Bornholm, én i Nordsøen ca. 80 km fra Jyllands vestkyst. Opføres i 2030'erne.	FA26_Klima
+Hvilket område har Danmark endnu ikke for alvor reduceret udledningen i?	Transport – flere elbiler er nødvendigt.	FA26_Klima
+Hvad støtter staten boligejere i at gøre?	Udskifte olie- og gasfyr med varmepumper (mere klimavenlig bolig).	FA26_Klima
+Hvad er Den Grønne Trepart?	Samarbejde mellem regering, kommuner, fagforeninger, miljø- og erhvervsorganisationer. Plan fra 2024 om mere natur, renere vand og omstilling af landbruget.	FA26_Klima
+Hvor stor en del af Danmarks areal er landbrug, og hvad er aftalt om natur?	60 procent. Cirka 15 % af landbrugsjorden skal blive natur (skov, moser, åer).	FA26_Klima
+Hvad er særligt ved Danmarks CO2-afgift på landbruget?	Første land i verden med en direkte afgift på landbrugets udledning (køer, grise, får, høns).	FA26_Klima
