@@ -121,7 +121,7 @@
         timer.classList.toggle("low", rem < (session.cfg.timeLimit > 60000 ? 300000 : 10000));
       }
       if (bar) bar.style.width = `${(100 * rem) / session.cfg.timeLimit}%`;
-      if (rem === 0 && !play.feedback) finishSession();
+      if (rem === 0 && !play.feedback && !play.flash) finishSession();
     }
 
     function formatTime(ms) {
@@ -147,7 +147,9 @@
       } else {
         play.flash = { item, pick: choice };
         render();
-        setTimeout(() => {
+        const owner = session;
+        play.pending = setTimeout(() => {
+          if (session !== owner) return; // quit or finished meanwhile
           play.flash = null;
           if (res.ended) finishSession();
           else render();
@@ -469,7 +471,11 @@
           ${extra.dailyXp ? `<b style="color:var(--gold)">${esc(t("result.dailyDone", { xp: extra.dailyXp }))}</b>` : ""}
           ${xp ? `<b style="color:var(--gold)">${esc(t("result.xp", { xp }))}</b>` : ""}`;
       }
+      const notes = (item) =>
+        [item.n ? `<span class="warn"><b>${esc(t("play.note"))}:</b> ${esc(item.n)}</span>` : "",
+         item.w ? `<span class="warn">${esc(item.w)}${lang() === "en" && en(item.w) ? `<br><i class="muted">${esc(en(item.w))}</i>` : ""}</span>` : ""].join("");
       const mistakes = r.answers.filter((a) => !a.correct);
+      const flaggedRight = r.answers.filter((a) => a.correct && (a.item.w || a.item.n));
       const list = mistakes.length
         ? mistakes.map(({ item, pick }) => `
             <div class="sheet mistake">
@@ -479,8 +485,17 @@
               <span class="yours">${esc(pick === null ? t("result.noAnswer") : item.o[pick])}</span>
               <span class="lab">${esc(t("result.rightAnswer"))}</span>
               <span class="right-a">${esc(item.kind === "card" ? item.full : item.o[item.a])}</span>
+              ${notes(item)}
             </div>`).join("")
         : `<p class="muted">${esc(t("result.noMistakes"))}</p>`;
+      const flagged = flaggedRight.length
+        ? `<span class="eyebrow">${esc(t("result.notes"))}</span>${flaggedRight.map(({ item }) => `
+            <div class="sheet mistake">
+              <span class="q">${esc(item.q)}</span>
+              <span class="right-a">${esc(item.o[item.a])}</span>
+              ${notes(item)}
+            </div>`).join("")}`
+        : "";
       const again = `data-act="start" data-mode="${mode}"${opts.paper ? ` data-paper="${esc(opts.paper)}"` : ""}${opts.tag ? ` data-tag="${esc(opts.tag)}"` : ""}`;
       return `
         <section class="sheet result-head">${head}
@@ -492,6 +507,7 @@
         <section class="mistakes">
           <span class="eyebrow">${esc(t("result.mistakes"))} · ${mistakes.length}</span>
           ${list}
+          ${flagged}
         </section>`;
     }
 
